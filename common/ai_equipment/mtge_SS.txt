@@ -2,7 +2,6 @@ mtge_submarine = {
 	category = naval
 	
 	blocked_for = {
-
 	}
 	
 	available_for = {
@@ -122,7 +121,6 @@ mtge_submarine_cruiser = {
 	category = naval
 	
 	blocked_for = {
-
 	}
 	
 	available_for = {
@@ -249,7 +247,6 @@ mtge_submarine_carrier = {
 	category = naval
 	
 	blocked_for = {
-
 	}
 	
 	available_for = {
