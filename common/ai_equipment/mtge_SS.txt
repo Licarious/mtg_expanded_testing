@@ -1,0 +1,322 @@
+mtge_submarine = {
+	category = naval
+	
+	blocked_for = {
+
+	}
+	
+	available_for = {
+	}
+	
+	roles = {
+		naval_submarine
+	}
+	
+	priority = {
+		factor = 1
+		modifier = {
+			factor = 5
+			OR = {
+				has_war_with = ENG
+				has_war_with = USA
+				has_war_with = JAP
+			}
+		}
+	}
+
+	mtge_submarine_5 = {
+	
+		priority = {
+			factor = 1
+			modifier = {
+				factor = 1
+			}
+		}
+
+		role_icon_index = 1
+		
+		target_variant = {
+			match_value = 2250.0
+			
+			type = ship_hull_submarine_5
+			modules = {
+				fixed_ship_engine_slot > sub_ship_engine_3
+				fixed_ship_torpedo_slot = ship_torpedo_sub
+				#fixed_ship_secondaries_slot = submarine_secondaries
+				#fixed_ship_fire_control_system_slot = ship_fire_control_system
+				fixed_ship_anti_air_slot = submarine_anti_air
+				#fixed_ship_armor_slot = ship_submarine_armor
+				#front_1_custom_slot = ship_torpedo_sub
+				mid_1_custom_slot = { any_of = { ship_sub_snorkel_radar ship_sub_snorkel ship_radar } }
+				#mid_2_custom_slot = ship_extra_fuel_tank
+				rear_1_custom_slot = ship_torpedo_sub
+			}
+		}
+		
+		allowed_modules = {
+			ship_torpedo_sub
+			sub_ship_engine
+			ship_mine_layer_sub
+			ship_sub_snorkel
+			ship_radar
+			ship_sub_snorkel_radar
+			submarine_secondaries
+			ship_fire_control_system
+			submarine_anti_air
+			ship_submarine_armor
+			ship_extra_fuel_tank
+		}
+	}
+	
+	mtge_submarine_cruiser_2_scout = {
+	
+		priority = {
+			factor = 1
+			modifier = {
+				factor = 5
+				tag = JAP
+			}
+		}
+
+		role_icon_index = 2
+		
+		target_variant = {
+			match_value = 2550.0
+			
+			type = ship_hull_cruiser_submarine_2
+			modules = {
+				fixed_ship_engine_slot > sub_ship_engine_3
+				fixed_ship_torpedo_slot = ship_torpedo_sub
+				#fixed_ship_secondaries_slot = submarine_secondaries
+				#fixed_ship_fire_control_system_slot = ship_fire_control_system
+				fixed_ship_anti_air_slot = submarine_anti_air
+				#fixed_ship_armor_slot = ship_submarine_armor
+				front_1_custom_slot = { any_of = { submarine_airplane_launcher  submarine_secondaries ship_torpedo_sub } }
+				mid_1_custom_slot = { any_of = { submarine_airplane_launcher submarine_light_battery submarine_secondaries submarine_anti_air} }
+				mid_2_custom_slot = { any_of = { ship_sub_snorkel_radar ship_sub_snorkel ship_radar submarine_anti_air} }
+				mid_3_custom_slot = { any_of = {submarine_airplane_launcher ship_extra_fuel_tank submarine_anti_air submarine_secondaries } }
+				rear_1_custom_slot = { any_of = { submarine_light_battery submarine_medium_battery submarine_secondaries } }
+			}
+		}
+		
+		allowed_modules = {
+			ship_torpedo_sub
+			sub_ship_engine
+			ship_mine_layer_sub
+			ship_sub_snorkel
+			ship_radar
+			ship_sub_snorkel_radar
+			submarine_secondaries
+			ship_fire_control_system
+			submarine_anti_air
+			ship_submarine_armor
+			submarine_medium_battery
+			submarine_light_battery
+			ship_extra_fuel_tank
+			submarine_airplane_launcher
+		}
+	}
+}
+
+mtge_submarine_cruiser = {
+	category = naval
+	
+	blocked_for = {
+
+	}
+	
+	available_for = {
+	}
+	
+	roles = {
+		naval_submarine
+		naval_cruiser_heavy
+	}
+	
+	priority = {
+		factor = 1
+		modifier = {
+			factor = 5
+			OR = {
+				tag = FRA
+				tag = VIC
+				tag = ITA
+				tag = JAP
+			}
+		}
+	}
+	
+	mtge_submarine_cruiser_1_gun = {
+	
+		priority = {
+			factor = 1
+			modifier = {
+				factor = 10
+				tag = FRA
+			}
+		}
+
+		role_icon_index = 1
+		
+		target_variant = {
+			match_value = 2550.0
+			
+			type = ship_hull_cruiser_submarine
+			modules = {
+				fixed_ship_engine_slot > sub_ship_engine_2
+				fixed_ship_torpedo_slot = ship_torpedo_sub
+				#fixed_ship_secondaries_slot = submarine_secondaries
+				#fixed_ship_fire_control_system_slot = ship_fire_control_system
+				fixed_ship_anti_air_slot = submarine_anti_air
+				#fixed_ship_armor_slot = ship_submarine_armor
+				front_1_custom_slot = { any_of = { submarine_medium_battery submarine_light_battery submarine_secondaries ship_torpedo_sub } }
+				mid_1_custom_slot = { any_of = { submarine_medium_battery submarine_light_battery submarine_secondaries submarine_anti_air} }
+				mid_2_custom_slot = { any_of = { ship_sub_snorkel_radar ship_sub_snorkel ship_radar submarine_anti_air} }
+				mid_3_custom_slot = { any_of = {submarine_airplane_launcher ship_extra_fuel_tank submarine_anti_air submarine_secondaries } }
+				rear_1_custom_slot = { any_of = { submarine_light_battery submarine_medium_battery submarine_secondaries } }
+			}
+		}
+		
+		allowed_modules = {
+			ship_torpedo_sub
+			sub_ship_engine
+			ship_mine_layer_sub
+			ship_sub_snorkel
+			ship_radar
+			ship_sub_snorkel_radar
+			submarine_secondaries
+			ship_fire_control_system
+			submarine_anti_air
+			ship_submarine_armor
+			submarine_medium_battery
+			submarine_light_battery
+			ship_extra_fuel_tank
+			submarine_airplane_launcher
+		}
+	}
+	
+	mtge_submarine_cruiser_2_gun = {
+	
+		priority = {
+			factor = 1
+			modifier = {
+				factor = 5
+				tag = FRA
+			}
+		}
+
+		role_icon_index = 1
+		
+		target_variant = {
+			match_value = 2550.0
+			
+			type = ship_hull_cruiser_submarine_2
+			modules = {
+				fixed_ship_engine_slot > sub_ship_engine_3
+				fixed_ship_torpedo_slot = ship_torpedo_sub
+				#fixed_ship_secondaries_slot = submarine_secondaries
+				#fixed_ship_fire_control_system_slot = ship_fire_control_system
+				fixed_ship_anti_air_slot = submarine_anti_air
+				#fixed_ship_armor_slot = ship_submarine_armor
+				front_1_custom_slot = { any_of = { submarine_medium_battery submarine_light_battery submarine_secondaries ship_torpedo_sub } }
+				mid_1_custom_slot = { any_of = { submarine_medium_battery submarine_light_battery submarine_secondaries submarine_anti_air} }
+				mid_2_custom_slot = { any_of = { ship_sub_snorkel_radar ship_sub_snorkel ship_radar submarine_anti_air} }
+				mid_3_custom_slot = { any_of = {submarine_airplane_launcher ship_extra_fuel_tank submarine_anti_air submarine_secondaries } }
+				rear_1_custom_slot = { any_of = { submarine_light_battery submarine_medium_battery submarine_secondaries } }
+			}
+		}
+		
+		allowed_modules = {
+			ship_torpedo_sub
+			sub_ship_engine
+			ship_mine_layer_sub
+			ship_sub_snorkel
+			ship_radar
+			ship_sub_snorkel_radar
+			submarine_secondaries
+			ship_fire_control_system
+			submarine_anti_air
+			ship_submarine_armor
+			submarine_medium_battery
+			submarine_light_battery
+			ship_extra_fuel_tank
+			submarine_airplane_launcher
+		}
+	}
+}
+
+mtge_submarine_carrier = {
+	category = naval
+	
+	blocked_for = {
+
+	}
+	
+	available_for = {
+	}
+	
+	roles = {
+		naval_submarine
+		naval_carrier
+	}
+	
+	priority = {
+		factor = 1
+		modifier = {
+			factor = 5
+			OR = {
+				TAG = JAP
+			}
+		}
+	}
+
+	mtge_submarine_carrier = {
+	
+		priority = {
+			factor = 1
+			modifier = {
+				factor = 5
+				tag = JAP
+			}
+		}
+
+		role_icon_index = 2
+		
+		target_variant = {
+			match_value = 2550.0
+			
+			type = ship_hull_submarine_carrier
+			modules = {
+				fixed_ship_engine_slot > sub_ship_engine_2
+				fixed_ship_torpedo_slot = ship_torpedo_sub
+				#fixed_ship_secondaries_slot = submarine_secondaries
+				#fixed_ship_fire_control_system_slot = ship_fire_control_system
+				fixed_ship_anti_air_slot = submarine_anti_air
+				#fixed_ship_armor_slot = ship_submarine_armor
+				front_1_custom_slot = submarine_deck_space
+				mid_4_custom_slot = submarine_deck_space
+				#mid_1_custom_slot = submarine_anti_air_cv
+				mid_2_custom_slot = { any_of = { ship_sub_snorkel_radar ship_sub_snorkel ship_radar submarine_anti_air} }
+				#mid_3_custom_slot = submarine_anti_air_cv
+				#rear_1_custom_slot = submarine_secondaries
+			}
+		}
+		
+		allowed_modules = {
+			ship_torpedo_sub
+			sub_ship_engine
+			ship_mine_layer_sub
+			ship_sub_snorkel
+			ship_radar
+			ship_sub_snorkel_radar
+			submarine_secondaries
+			ship_fire_control_system
+			submarine_anti_air_cv
+			ship_submarine_armor
+			submarine_medium_battery
+			submarine_light_battery
+			ship_extra_fuel_tank
+			submarine_airplane_launcher
+		}
+	}
+}

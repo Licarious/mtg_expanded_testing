@@ -1,0 +1,246 @@
+spriteTypes = {
+
+###################################################
+# Contains GFX for the ship modules shown on top of the blue print
+#
+# Names of the modules are normalized and *must* obey the following naming
+# convention.
+#
+# "GFX_SM_ ( SHIP_CLASS ) "_" ( MODULE_KEY ) "_" ( MODIFIER )
+#( MODIFIER ) is optional
+# Where:
+# * SHIP_CLASS looks like "ship_hull_carrier"
+# * MODULE_KEY looks like "ship_light_battery"
+# * COUNTRY MODIFIER looks like "ger" (for Germany for example).
+# Example:
+# Each sprite corresponds to one ship hull type and one module only. 
+# * "GFX_SM_ship_hull_carrier_ship_light_battery_ger"
+###################################################
+
+######## TopViews
+
+###################################################
+# Submarine
+###################################################
+
+	######## light battery
+
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_light_battery"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_light_battery.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_light_battery@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_light_battery@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_light_battery"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_light_battery.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_light_battery@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_light_battery@highlight.dds"
+	}	
+	spriteType = {
+		name = "GFX_SM_submarine_hull_rear_light_battery"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_rear_light_battery.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_rear_light_battery@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_rear_light_battery@highlight.dds"
+	}
+
+	######## medium battery
+
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_medium_battery"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_medium_battery.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_medium_battery@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_medium_battery@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front3_medium_battery"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front3_medium_battery.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front3_medium_battery@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front3_medium_battery@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_medium_battery"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_medium_battery.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_medium_battery@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_medium_battery@highlight.dds"
+	}	
+	spriteType = {
+		name = "GFX_SM_submarine_hull_rear_medium_battery"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_rear_medium_battery.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_rear_medium_battery@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_rear_medium_battery@highlight.dds"
+	}
+
+	######## heavy battery	
+
+#	spriteType = {
+#		name = "GFX_SM_submarine_hull_front_heavy_battery"
+#		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_heavy_battery.dds"
+#	}
+#	spriteType = {
+#		name = "GFX_SM_submarine_hull_front_heavy_battery@highlight"
+#		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_heavy_battery@highlight.dds"
+#	}
+
+	######## secondary battery	
+
+	spriteType = {
+		name = "GFX_SM_submarine_hull_fixed_secondary"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_fixed_secondary.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_fixed_secondary@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_fixed_secondary@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_secondary"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_fixed_secondary.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_secondary@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_fixed_secondary@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_secondary"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_secondary.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_secondary@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_secondary@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid3_secondary"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_secondary.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid3_secondary@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_secondary@highlight.dds"
+	}	
+	spriteType = {
+		name = "GFX_SM_submarine_hull_rear_secondary"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_rear_secondary.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_rear_secondary@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_rear_secondary@highlight.dds"
+	}	
+
+	######## anti_air battery
+
+	spriteType = {
+		name = "GFX_SM_submarine_hull_fixed_anti_air"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_fixed_anti_air.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_fixed_anti_air@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_fixed_anti_air@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_anti_air"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_anti_air.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_anti_air@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_anti_air@highlight.dds"
+	}	
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_anti_air_cv"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_anti_air_cv.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid1_anti_air_cv@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_anti_air_cv@highlight.dds"
+	}	
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid3_anti_air"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_anti_air.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid3_anti_air@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_anti_air@highlight.dds"
+	}	
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid3_anti_air_cv"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_anti_air_cv.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid3_anti_air_cv@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_anti_air_cv@highlight.dds"
+	}
+
+
+	######## airplane_launcher
+
+	spriteType = {
+		name = "GFX_SM_submarine_mid1_airplane_launcher"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_airplane_hanger.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_mid1_airplane_launcher@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid1_airplane_hanger@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_mid3_airplane_launcher"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_airplane_launcher.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_mid3_airplane_launcher@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_airplane_launcher@highlight.dds"
+	}
+
+	######## deck_space
+
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_deck_space"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_deck_space.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_front_deck_space@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_front_deck_space@highlight.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid4_deck_space"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid4_deck_space.dds"
+	}
+	spriteType = {
+		name = "GFX_SM_submarine_hull_mid4_deck_space@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid4_deck_space@highlight.dds"
+	}
+
+	######## rocket_launcher
+
+	spriteType = {
+		name = "GFX_SM_submarine_mid3_rocket_launcher"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/submarine_hull_mid3_rocket_launcher.dds"
+	}
+
+	######## snorkel_radar
+
+	spriteType = {
+		name = "GFX_SM_module_blueprint_snorkel_radar"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/module_blueprint_radar_snorkel.dds"
+	}	
+	spriteType = {
+		name = "GFX_SM_module_blueprint_snorkel_radar@highlight"
+		textureFile="gfx/interface/equipmentdesigner/naval/topviews/submarine/module_blueprint_radar_snorkel.dds"
+	}	
+}
+
+
+
+
+

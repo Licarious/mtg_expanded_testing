@@ -1,0 +1,26 @@
+﻿generic = {
+	# Ships
+	battle_carrier = {
+		prefix = ""
+		generic = { "Battle Carrier" }
+		unique = {}
+	}
+
+	flyingdeck_cruiser = {
+		prefix = ""
+		generic = { "Flyingdeck Cruiser" }
+		unique = {}
+	}
+
+	submarine_carrier = {
+		prefix = ""
+		generic = { "Submarine Carrier" }
+		unique = {}
+	}
+
+	submarine_cruiser = {
+		prefix = ""
+		generic = { "Submarine Cruiser" }
+		unique = {}
+	}
+}
