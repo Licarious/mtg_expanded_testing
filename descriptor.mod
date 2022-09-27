@@ -1,0 +1,9 @@
+version="1.0"
+tags={
+	"Gameplay"
+	"Military"
+	"Technologies"
+}
+name="MTG_expanded_release"
+supported_version="1.11.*"
+remote_file_id="2124082035"

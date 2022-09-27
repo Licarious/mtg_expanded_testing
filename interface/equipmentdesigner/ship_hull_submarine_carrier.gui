@@ -55,39 +55,6 @@ guiTypes = {
 				}
 			}
 
- ######## Mod Start ########
-
-			################# MODULE SLOT: Secondaries #################
-			containerWindowType = {
-				name = "fixed_ship_secondaries_slot"
-				position = { x=0 y=0 }
-				size = { width=100% height=100% }
-
-				containerWindowType = {
-					name = "submarine_secondaries"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_fixed_secondary"
-						position = { x=270 y=-10 }
-					}
-				}
-
-				containerWindowType = {
-					name = "submarine_secondaries@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "highlight"
-						spriteType = "GFX_SM_submarine_hull_fixed_secondary@highlight"
-						position = { x=270 y=-10 }
-					}
-				}
-			}
-
 			################# MODULE SLOT: Anti-Air #################
 			containerWindowType = {
 				name = "fixed_ship_anti_air_slot"
@@ -119,64 +86,6 @@ guiTypes = {
 				}
 			}
 
-			################# MODULE SLOT: Fire Control System #################
-			containerWindowType = {
-				name = "fixed_ship_fire_control_system_slot"
-				position = { x=0 y=0 }
-				size = { width=100% height=100% }
-
-				containerWindowType = {
-					name = "ship_fire_control_system"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "image"
-						spriteType = "GFX_SM_cruiser_hull_fire_control"
-						position = { x=0 y=0 }
-					}
-				}
-
-				containerWindowType = {
-					name = "@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "highlight"
-						spriteType = "GFX_SM_cruiser_hull_fire_control@highlight"
-						position = { x=0 y=0 }
-					}
-				}
-
-				#### MODULE: Sonar ####
-				containerWindowType = {
-					name = "ship_sonar"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_cruiser_hull_sonar"
-						position = { x=0 y=0 }
-					}
-				}
-
-				containerWindowType = {
-					name = "ship_sonar@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "highlight"
-						spriteType = "GFX_SM_cruiser_hull_sonar@highlight"
-						position = { x=0 y=0 }
-					}
-				}
-			}
-
- ######### Mod End #########
-
 			################# MODULE SLOT: Engine #################
 			containerWindowType = {
 				name = "fixed_ship_engine_slot"
@@ -207,8 +116,6 @@ guiTypes = {
 					}
 				}
 			}
-
- ######## Mod Start ########
 
 			################# MODULE SLOT: Armor #################
 			containerWindowType = {
@@ -255,31 +162,6 @@ guiTypes = {
 				position = { x=0 y=0 }
 				size = { width=100% height=100% }
 
-				#### MODULE: Airplane Launcher ####
-				containerWindowType = {
-					name = "ship_airplane_launcher"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_airplane_launcher"
-						position = { x=331 y=0 }
-					}
-				}
-
-				containerWindowType = {
-					name = "ship_airplane_launcher@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint_highlight"
-						spriteType = "GFX_SM_submarine_hull_airplane_launcher@highlight"
-						position = { x=331 y=0 }
-					}
-				}
-
 				#### MODULE: Deck Space ####
 				containerWindowType = {
 					name = "submarine_deck_space"
@@ -304,31 +186,6 @@ guiTypes = {
 						position = { x=325 y=0 }
 					}
 				}
-
-				#### MODULE: Airplane Launcher ####
-				containerWindowType = {
-					name = "submarine_airplane_launcher"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_airplane_launcher"
-						position = { x=331 y=0 }
-					}
-				}
-
-				containerWindowType = {
-					name = "submarine_airplane_launcher@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint_highlight"
-						spriteType = "GFX_SM_submarine_hull_airplane_launcher@highlight"
-						position = { x=331 y=0 }
-					}
-				}				
 			}	
 
  #   # ### ###    #
@@ -661,81 +518,6 @@ guiTypes = {
 						position = { x=140 y=0 }
 					}
 				}
-				#### MODULE: Airplane Launcher ####
-				containerWindowType = {
-					name = "ship_airplane_launcher"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_airplane_launcher"
-						position = { x=331 y=0 }
-					}
-				}
-
-				containerWindowType = {
-					name = "ship_airplane_launcher@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint_highlight"
-						spriteType = "GFX_SM_submarine_hull_airplane_launcher@highlight"
-						position = { x=331 y=0 }
-					}
-				}
-
-
-				#### MODULE: Radar ####
-				containerWindowType = {
-					name = "ship_radar"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_radar"
-						position = { x=0 y=0 }
-					}
-				}
-
-				containerWindowType = {
-					name = "ship_radar@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint_highlight"
-						spriteType = "GFX_SM_submarine_hull_radar@highlight"
-						position = { x=0 y=0 }
-					}
-				}
-
-				#### MODULE: Sonar ####
-				containerWindowType = {
-					name = "ship_sonar"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_sonar"
-						position = { x=0 y=0 }
-					}
-				}
-
-				containerWindowType = {
-					name = "ship_sonar@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint_highlight"
-						spriteType = "GFX_SM_submarine_hull_sonar@highlight"
-						position = { x=0 y=0 }
-					}
-				}
 				
 				#### MODULE: Fuek Tank ####
 				containerWindowType = {
@@ -762,55 +544,6 @@ guiTypes = {
 					}
 				}
 
- ######## Mod Start ########
-
-				#### MODULE: light battery ####
-				containerWindowType = {
-					name = "submarine_light_battery"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }	
-
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_rear_light_battery"
-						position = { x=104 y=-9 }
-					}
-				}
-				containerWindowType = {
-					name = "submarine_light_battery@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint_highlight"
-						spriteType = "GFX_SM_submarine_hull_rear_light_battery@highlight"
-						position = { x=104 y=-9 }
-					}
-				}
-				#### MODULE: medium battery ####
-				containerWindowType = {
-					name = "submarine_medium_battery"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint"
-						spriteType = "GFX_SM_submarine_hull_rear_medium_battery"
-						position = { x=104 y=-10 }
-					}
-				}
-				containerWindowType = {
-					name = "submarine_medium_battery@highlight"
-					position = { x=0 y=0 }
-					size = { width=100% height=100% }
-					
-					iconType = {
-						name = "blueprint_highlight"
-						spriteType = "GFX_SM_submarine_hull_rear_medium_battery@highlight"
-						position = { x=104 y=-10 }
-					}
-				}
-
 				#### MODULE: secondary battery ####
 				containerWindowType = {
 					name = "submarine_secondaries"
@@ -834,7 +567,6 @@ guiTypes = {
 						position = { x=106 y=-12 }
 					}
 				}
- ######### Mod End #########
 			}
 		}
 	}

@@ -14,10 +14,12 @@ sub_units = {
 				ship_hull_heavy_downgrade_1 = 1
 				ship_hull_heavy_downgrade_3 = 1				
 				ship_hull_heavy_downgrade_2 = 1
+				ship_hull_heavy_camo_1 = 1				
 				ship_armor_shbb = 1				
 				ship_hull_super_heavy_downgrade_1 = 1				
 				ship_hull_super_heavy_downgrade_2 = 1				
-				ship_hull_super_heavy_downgrade_3 = 1								
+				ship_hull_super_heavy_downgrade_3 = 1	
+				ship_hull_super_heavy_camo_1 = 1									
 			}
 		}
 		

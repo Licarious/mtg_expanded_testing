@@ -6,9 +6,9 @@
 		unique = {}
 	}
 
-	flyingdeck_cruiser = {
+	cruiser_carrier = {
 		prefix = ""
-		generic = { "Flyingdeck Cruiser" }
+		generic = { "Cruiser Carrier" }
 		unique = {}
 	}
 

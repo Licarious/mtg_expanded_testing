@@ -31,8 +31,19 @@ spriteTypes = {
 		name = "GFX_EMSI_fixed_submarine_anti_air_slot_2"
 		textureFile = "gfx/interface/equipmentdesigner/naval/module_slots/icons/anti_air.dds"
 	}
- 
-######## Submarine  battery	
+	spriteType = {
+		name = "GFX_EMSI_front_3_custom_slot"
+		textureFile = "gfx/interface/equipmentdesigner/naval/module_slots/icons/front.dds"
+	} 
+
+######## Ship battery	
+
+	spriteType = {
+		name = "GFX_SMI_ship_super_heavy_battery_2"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/heavy_battery_icn_6.dds"
+	}
+
+######## Submarine battery	
 
  	### Category Icon
 
@@ -65,6 +76,10 @@ spriteTypes = {
 		name = "GFX_SMI_submarine_medium_battery"
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_medium_battery_icn.dds"
 	}
+	spriteType = {
+		name = "GFX_SMI_submarine_medium_battery_cap"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_medium_battery_icn.dds"
+	}	
 
 	###
 		spriteType = {
@@ -82,24 +97,24 @@ spriteTypes = {
 
 	### Category Icon
 
-#	spriteType = {
-#		name = "GFX_SMI_submarine_heavy_battery"
-#		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn.dds"
-#	}
+	spriteType = {
+		name = "GFX_SMI_submarine_heavy_battery"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn.dds"
+	}
 
 	###
-#	spriteType = {
-#		name = "GFX_SMI_submarine_heavy_battery_1"
-#		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_1.dds"
-#	}
-#	spriteType = {
-#		name = "GFX_SMI_submarine_heavy_battery_2"
-#		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_2.dds"
-#	}
-#	spriteType = {
-#		name = "GFX_SMI_submarine_heavy_battery_3"
-#		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_3.dds"
-#	}
+	spriteType = {
+		name = "GFX_SMI_submarine_heavy_battery_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_1.dds"
+	}
+	spriteType = {
+		name = "GFX_SMI_submarine_heavy_battery_2"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_2.dds"
+	}
+	spriteType = {
+		name = "GFX_SMI_submarine_heavy_battery_3"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_3.dds"
+	}
 
 ######## Secondaries
 	
@@ -144,8 +159,6 @@ spriteTypes = {
 		name = "GFX_SMI_submarine_secondaries_6"
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_secondary_battery_icn_6.dds"
 	}
-	
-
 
 ######## Depth Charge
 
@@ -154,9 +167,30 @@ spriteTypes = {
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/depth_charge_icn_5.dds"
 	}
 
+######## bridge
+
+	spriteType = {
+		name = "GFX_SMI_ship_heavy_bridge"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/heavy_bridge_icn.dds"
+	}
+	###
+
+	spriteType = {
+		name = "GFX_SMI_ship_heavy_bridge_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/heavy_bridge_icn_1.dds"
+	}
+	spriteType = {
+		name = "GFX_SMI_ship_heavy_bridge_2"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/heavy_bridge_icn_2.dds"
+	}
+
 ######## Radar
 
-		spriteType = {
+	spriteType = {
+		name = "GFX_SMI_ship_observer_mast"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/observer_mast_icn.dds"
+	}
+	spriteType = {
 		name = "GFX_SMI_ship_radar_5"
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/radar_icn_5.dds"
 	}	
@@ -302,6 +336,39 @@ spriteType = {
 		name = "GFX_SMI_ship_airplane_launcher_3"
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/airplane_launcher_icn_3.dds"
 	}
+	spriteType = {
+		name = "GFX_SMI_ship_cfiii_airplane_launcher_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/airplane_launcher_icn_1.dds"
+	}	
+	spriteType = {
+		name = "GFX_SMI_ship_cfiii_airplane_launcher_2"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/airplane_launcher_icn_2.dds"
+	}	
+	spriteType = {
+		name = "GFX_SMI_ship_cfiii_airplane_launcher_3"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/airplane_launcher_icn_3.dds"
+	}	
+
+######## Seaplane Tender
+
+	spriteType = {
+		name = "GFX_SMI_ship_seaplane_tender"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/seaplane_tender_icn.dds"
+	}
+	###
+	
+	spriteType = {
+		name = "GFX_SMI_ship_seaplane_tender_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/seaplane_tender_icn_1.dds"
+	}
+	spriteType = {
+		name = "GFX_SMI_ship_seaplane_tender_2"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/seaplane_tender_icn_2.dds"
+	}
+	spriteType = {
+		name = "GFX_SMI_ship_seaplane_tender_3"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/seaplane_tender_icn_3.dds"
+	}
 
 ######## Rocket Launcher	
 
@@ -333,10 +400,62 @@ spriteType = {
 
 ######## Deck Space	
 
+### Category Icon
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfi_rear_deck_space"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}
+	 spriteType = {
+		name = "GFX_SMI_ship_cfii_main_deck_space"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}
+	 spriteType = {
+		name = "GFX_SMI_ship_cfii_mid_deck_space"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}	
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfiii_main_deck_space"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfiii_front_deck_space"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfiii_rear_deck_space"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}
+
+	###
+
  	spriteType = {
 		name = "GFX_SMI_ship_deck_space_1"
-		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn_1.dds"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
 	}
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfi_rear_deck_space_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}	
+	spriteType = {
+		name = "GFX_SMI_ship_cfii_main_deck_space_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}	
+	spriteType = {
+		name = "GFX_SMI_ship_cfii_mid_deck_space_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}	
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfiii_main_deck_space_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfiii_front_deck_space_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}
+ 	spriteType = {
+		name = "GFX_SMI_ship_cfiii_rear_deck_space_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/deck_space_icn.dds"
+	}	
  	spriteType = {
 		name = "GFX_SMI_submarine_deck_space_1"
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_deck_space_icn_1.dds"
@@ -381,6 +500,21 @@ spriteType = {
 		name = "GFX_SMI_ship_armor_submarine_2"
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_double_hull_icn.dds"
 	}	
+
+######## dazzle camo
+
+ 	spriteType = {
+		name = "GFX_SMI_ship_hull_cruiser_camo_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/ship_hull_cruiser_camo_icn_1.dds"
+	} 
+ 	spriteType = {
+		name = "GFX_SMI_ship_hull_heavy_camo_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/ship_hull_heavy_camo_icn_1.dds"
+	}
+	spriteType = {
+		name = "GFX_SMI_ship_hull_super_heavy_camo_1"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/ship_hull_super_heavy_camo_icn_1.dds"
+	}
 
 ######## Hull downgrade
 
@@ -501,9 +635,24 @@ spriteType = {
 		name = "GFX_SMI_air_independent_propulsion_system"
 		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/air_independant_propulsion_system_icn.dds"
 	}
+
+
+	spriteType = {
+		name = "GFX_SMI_ship_redundant_systems"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/redundant_systems_icn.dds"
+	}
+	spriteType = {
+		name = "GFX_SMI_submarine_hybrid_propulsion_system"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/hybrid_propulsion_system_icn.dds"
+	}	
+
+### Category Icon & Module Icon
+
+	spriteType = {
+		name = "GFX_SMI_ship_fuel_tank"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/fuel_tank_icn.dds"
+	}
+	###
 }
-
-
-
 
 
