@@ -1,0 +1,277 @@
+add_namespace = css_gun_tech
+
+#submarine_light_battery_1
+country_event = {
+	id = css_gun_tech.1
+	title = css_gun_tech.1.t
+	desc = css_gun_tech.1.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_light_battery_1 }
+		has_tech = basic_battery
+		has_country_flag = light_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_light_battery_1 = 1
+			css_submarine_dp_light_battery_1 = 1
+			css_submarine_light_medium_battery_1 = 1
+		}
+	}
+}
+
+#submarine_light_battery_2
+country_event = {
+	id = css_gun_tech.2
+	title = css_gun_tech.2.t
+	desc = css_gun_tech.2.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_light_battery_2 }
+		has_tech = basic_light_battery
+		has_country_flag = light_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_light_battery_2 = 1
+			css_submarine_dp_light_battery_2 = 1
+			css_submarine_light_medium_battery_2 = 1
+		}
+	}
+}
+
+#submarine_light_battery_3
+country_event = {
+	id = css_gun_tech.3
+	title = css_gun_tech.3.t
+	desc = css_gun_tech.3.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_light_battery_3 }
+		has_tech = improved_light_battery
+		has_country_flag = light_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_light_battery_3 = 1
+			css_submarine_dp_light_battery_3 = 1
+			css_submarine_light_medium_battery_3 = 1
+		}
+	}
+}
+
+#submarine_light_battery_4
+country_event = {
+	id = css_gun_tech.4
+	title = css_gun_tech.4.t
+	desc = css_gun_tech.4.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_light_battery_4 }
+		has_tech = advanced_light_battery
+		has_country_flag = light_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_light_battery_4 = 1
+			css_submarine_dp_light_battery_4 = 1
+			css_submarine_light_medium_battery_4 = 1
+		}
+	}
+}
+
+#submarine_heavy_battery_1
+country_event = {
+	id = css_gun_tech.5
+	title = css_gun_tech.5.t
+	desc = css_gun_tech.5.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_heavy_battery_1 }
+		has_tech = basic_battery
+		has_country_flag = heavy_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_heavy_battery_1 = 1
+		}
+	}
+}
+
+#submarine_heavy_battery_2
+country_event = {
+	id = css_gun_tech.6
+	title = css_gun_tech.6.t
+	desc = css_gun_tech.6.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_heavy_battery_2 }
+		has_tech = basic_heavy_battery
+		has_country_flag = heavy_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_heavy_battery_2 = 1
+		}
+	}
+}
+
+#submarine_heavy_battery_3
+country_event = {
+	id = css_gun_tech.7
+	title = css_gun_tech.7.t
+	desc = css_gun_tech.7.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_heavy_battery_3 }
+		has_tech = improved_heavy_battery
+		has_country_flag = heavy_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_heavy_battery_3 = 1
+		}
+	}
+}
+
+#submarine_heavy_battery_4
+country_event = {
+	id = css_gun_tech.8
+	title = css_gun_tech.8.t
+	desc = css_gun_tech.8.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_heavy_battery_4 }
+		has_tech = advanced_heavy_battery
+		has_country_flag = heavy_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_heavy_battery_4 = 1
+		}
+	}
+}
+
+#submarine_medium_battery_1
+country_event = {
+	id = css_gun_tech.9
+	title = css_gun_tech.9.t
+	desc = css_gun_tech.9.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_medium_battery_1 }
+		has_tech = basic_battery
+		has_country_flag = medium_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_medium_battery_1 = 1
+			css_submarine_light_medium_battery_1 = 1
+		}
+	}
+}
+
+#submarine_medium_battery_2
+country_event = {
+	id = css_gun_tech.10
+	title = css_gun_tech.10.t
+	desc = css_gun_tech.10.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_medium_battery_2 }
+		has_tech = basic_medium_battery
+		has_country_flag = medium_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_medium_battery_2 = 1
+			css_submarine_light_medium_battery_2 = 1
+		}
+	}
+}
+
+#submarine_medium_battery_3
+country_event = {
+	id = css_gun_tech.11
+	title = css_gun_tech.11.t
+	desc = css_gun_tech.11.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_medium_battery_3 }
+		has_tech = improved_medium_battery
+		has_country_flag = medium_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_medium_battery_3 = 1
+			css_submarine_light_medium_battery_3 = 1
+		}
+	}
+}
+
+#submarine_medium_battery_4
+country_event = {
+	id = css_gun_tech.12
+	title = css_gun_tech.12.t
+	desc = css_gun_tech.12.desc
+	hidden = yes
+
+	trigger = {
+		not = { has_tech = css_submarine_medium_battery_4 }
+		has_tech = advanced_medium_battery
+		has_country_flag = medium_battery_submersible
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	immediate = {
+		set_technology = {
+			css_submarine_medium_battery_4 = 1
+			css_submarine_light_medium_battery_4 = 1
+		}
+	}
+}

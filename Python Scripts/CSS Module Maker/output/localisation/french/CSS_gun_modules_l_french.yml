@@ -1,0 +1,553 @@
+﻿l_french:
+ submarine_light_battery_1:0 "Canon de 85 mm à tir rapide (Submersible)"
+ submarine_light_battery_1_short:0 "8,5 cm à tir rapide (Submersible)"
+ submarine_light_battery_1_desc:0 "Un canon de calibre réduit pour les destroyers et bâtiments les moins imposants. (Submersible)"
+ submarine_light_battery_2:0 "Canon de 105 mm à tir rapide (Submersible)"
+ submarine_light_battery_2_short:0 "10,5 cm à tir rapide (Submersible)"
+ submarine_light_battery_2_desc:0 "Un canon de petit calibre sur tourelle pour permettre de viser rapidement les cibles. (Submersible)"
+ submarine_light_battery_3:0 "Canon de 127 mm à tir rapide (Submersible)"
+ submarine_light_battery_3_short:0 "12,7 cm à tir rapide (Submersible)"
+ submarine_light_battery_3_desc:0 "Un petit canon avec abri afin de protéger les servants des éclats d'obus et du mauvais temps. (Submersible)"
+ submarine_light_battery_4:0 "Canons jumelés de 130 mm à tir rapide (Submersible)"
+ submarine_light_battery_4_short:0 "2x13 cm à tir rapide (Submersible)"
+ submarine_light_battery_4_desc:0 "Deux canons jumelés de petit calibre, montés sur une tourelle blindée. (Submersible)"
+ submarine_dp_light_battery_1:1 "Batterie double-usage 100 mm (Submersible)"
+ submarine_dp_light_battery_1_short:0 "100 mm double-usage (Submersible)"
+ submarine_dp_light_battery_1_desc:1 "Un canon de calibre réduit agencé de manière à pouvoir tirer sur les avions autant que sur les navires ennemis. (Submersible)"
+ submarine_dp_light_battery_2:1 "Batterie double-usage 113 mm (Submersible)"
+ submarine_dp_light_battery_2_short:0 "113 mm double-usage (Submersible)"
+ submarine_dp_light_battery_2_desc:1 "Un petit canon doté d'une large protection couvrante, permettant de tirer sur les avions autant que sur les navires ennemis. (Submersible)"
+ submarine_dp_light_battery_3:1 "Batterie double-usage 127 mm (Submersible)"
+ submarine_dp_light_battery_3_short:0 "127 mm double-usage (Submersible)"
+ submarine_dp_light_battery_3_desc:1 "Un petit canon doté d'une tourelle fermante, permettant de tirer sur les avions autant que sur les navires ennemis. (Submersible)"
+ submarine_dp_light_battery_4:0 "Batterie double-usage 127 mm à tir rapide (Submersible)"
+ submarine_dp_light_battery_4_short:0 "127 mm dble-usage tir rapide (Submersible)"
+ submarine_dp_light_battery_4_desc:0 "Un petit canon doté d'une tourelle fermante à moteur, permettant de tirer sur les avions autant que sur les navires ennemis. (Submersible)"
+ submarine_heavy_battery_1:0 "Canon de 28 cm (Submersible)"
+ submarine_heavy_battery_1_short:0 "28 cm (Submersible)"
+ submarine_heavy_battery_1_desc:0 "Un canon de gros calibre remontant à la Belle-Époque. (Submersible)"
+ submarine_heavy_battery_2:0 "Canon de 30,5 cm (Submersible)"
+ submarine_heavy_battery_2_short:0 "30,5 cm (Submersible)"
+ submarine_heavy_battery_2_desc:1 "Un ensemble de canons de gros calibre enfermés dans une tourelle lourdement blindée et révisée pour permettre une meilleure élévation des canons et donc une plus grande portée. (Submersible)"
+ submarine_heavy_battery_3:0 "Canon de 38 cm (Submersible)"
+ submarine_heavy_battery_3_short:0 "38 cm (Submersible)"
+ submarine_heavy_battery_3_desc:0 "Une tourelle lourdement armée abritant des canons lourds bénéficiant d'un certain nombre de technologies nouvelles pour améliorer la précision et la cadence de tir. (Submersible)"
+ submarine_heavy_battery_4:0 "Canon de 40,6 cm (Submersible)"
+ submarine_heavy_battery_4_short:0 "40,6 cm (Submersible)"
+ submarine_heavy_battery_4_desc:0 "Évolution ultime de la puissance de feu des canons lourds, cette tourelle lourdement blindée permet une très haute précision à longue distance. (Submersible)"
+ submarine_light_medium_battery_1:0 "Canon de 145 mm (Submersible)"
+ submarine_light_medium_battery_1_short:0 "14,5 cm (Submersible)"
+ submarine_light_medium_battery_1_desc:0 "Compromis entre la cadence de tir et le poids des obus, ce canon est conçu pour les croiseurs légers, afin de faire feu sur les navires plus réduits. (Submersible)"
+ submarine_light_medium_battery_2:0 "Canon de 150 mm (Submersible)"
+ submarine_light_medium_battery_2_short:0 "15 cm (Submersible)"
+ submarine_light_medium_battery_2_desc:0 "Ce canon est l'évolution logique des modèles précédents, et vise à offrir aux croiseurs légers un avantage en puissance de feu par rapport aux destroyers et aux croiseurs plus anciens. (Submersible)"
+ submarine_light_medium_battery_3:0 "Canon de 155 mm (Submersible)"
+ submarine_light_medium_battery_3_short:0 "15,5 cm (Submersible)"
+ submarine_light_medium_battery_3_desc:0 "Incorporant bon nombre de nouvelles technologies, cette tourelle légèrement blindée accroît encore l'écart entre les batteries principales des destroyers et celles des croiseurs légers. (Submersible)"
+ submarine_light_medium_battery_4:0 "Canon de 155 mm automatique (Submersible)"
+ submarine_light_medium_battery_4_short:1 "15,5 cm automatique (Submersible)"
+ submarine_light_medium_battery_4_desc:0 "Conçu dès le départ pour obtenir une haute cadence de tir, ce canon a été créé pour permettre aux croiseurs légers de mettre hors d'usage des navires plus imposants par une multitude de frappes. (Submersible)"
+ submarine_medium_battery_1:0 "Canon de 17 cm (Submersible)"
+ submarine_medium_battery_1_short:0 "17 cm (Submersible)"
+ submarine_medium_battery_1_desc:0 "Tout en étant incapable de faire des dommages importants à des cuirassés, ce canon intermédiaire permet à un croiseur lourd d'engager avec confiance des navires légers et d'autres croiseurs. (Submersible)"
+ submarine_medium_battery_2:0 "Canon de 19 cm (Submersible)"
+ submarine_medium_battery_2_short:0 "19 cm (Submersible)"
+ submarine_medium_battery_2_desc:0 "Évolution d'un modèle plus ancien, ce canon a été conçu pour faire face à l'augmentation des épaisseurs de blindage et la plus longue portée nécessaire lors des batailles navales modernes. (Submersible)"
+ submarine_medium_battery_3:0 "Canon de 20,3 cm (Submersible)"
+ submarine_medium_battery_3_short:0 "20,3 cm (Submersible)"
+ submarine_medium_battery_3_desc:0 "S'il ne s'agit pas du plus gros canon pouvant être monté sur un croiseur, ce canon est un bon équilibre entre le poids réservé à l'armement et la puissance de feu, et permet d'attaquer aisément un blindage de croiseur. (Submersible)"
+ submarine_medium_battery_4:0 "Canon automatique de 20,3 cm (Submersible)"
+ submarine_medium_battery_4_short:0 "20,3 cm automatique (Submersible)"
+ submarine_medium_battery_4_desc:0 "Avec un calibre restreint pour s'adapter aux munitions préexistantes et destiné à être adapté aux navires plus anciens, ce nouveau canon bénéficie d'un système de rechargement automatique afin d'améliorer considérablement la cadence de tir. (Submersible)"
+ ENG_submarine_light_battery_1:1 "Canon 4.7 (Submersible)"/45 BL Mk I"
+ ENG_submarine_light_battery_2:1 "Canon 4.7 (Submersible)" QF Mk IX, CP Mk XIV mt"
+ ENG_submarine_light_battery_3:1 "Canon 4.7 (Submersible)" QF Mk XI, Mk XX mt"
+ ENG_submarine_light_battery_4:1 "Canon 4.5 (Submersible)" QF Mk IV, RP 50 Mk V mt"
+ ENG_submarine_dp_light_battery_1:0 "Canon 4 pouces QF Mk V (Submersible)"
+ ENG_submarine_dp_light_battery_2:0 "Canon 4,7 pouces QF Mk XII, CP Mk XIX mt (Submersible)"
+ ENG_submarine_dp_light_battery_3:0 "Canon 4,5 pouces QF Mk III, RP 10 Mk IV mt (Submersible)"
+ ENG_submarine_dp_light_battery_4:0 "Canon 4,5 pouces QF Mk IV, Mk VI mt (Submersible)"
+ ENG_submarine_heavy_battery_1:0 "Mk I 15 pouces (Submersible)"
+ ENG_submarine_heavy_battery_2:0 "Mk VII 14 pouces (Submersible)"
+ ENG_submarine_heavy_battery_3:0 "Mk II/III 16 pouces (Submersible)"
+ ENG_submarine_heavy_battery_4:0 "Mk IV 16 pouces (Submersible)"
+ ENG_submarine_light_medium_battery_1:0 "BL Mk XII 6 pouces (Submersible)"
+ ENG_submarine_light_medium_battery_2:0 "BL Mk XXIII 6 pouces (Submersible)"
+ ENG_submarine_light_medium_battery_3:0 "BL Mk XXIII 6 pouces contrôle à distance (Submersible)"
+ ENG_submarine_light_medium_battery_4:1 "QF Mk V LA 6 pouces (Submersible)"
+ ENG_submarine_medium_battery_1:0 "Mk VI 7,5 pouces (Submersible)"
+ ENG_submarine_medium_battery_2:0 "Mk VII 8 pouces (Submersible)"
+ ENG_submarine_medium_battery_3:0 "Mk IX/X 8 pouces (Submersible)"
+ ENG_submarine_medium_battery_4:0 "8 pouces à chargement automatique (Submersible)"
+ FRA_submarine_light_battery_1:0 "130 mm/40 modèle 1919 (Submersible)"
+ FRA_submarine_light_battery_2:0 "138,6 mm/40 modèle 1927 (Submersible)"
+ FRA_submarine_light_battery_3:0 "138,6 mm/50 modèle 1934 (Submersible)"
+ FRA_submarine_light_battery_4:0 "138,6 mm/50 révision 1938 (Submersible)"
+ FRA_submarine_dp_light_battery_1:0 "100 mm/45 modèle 1927 (Submersible)"
+ FRA_submarine_dp_light_battery_2:0 "130 mm/45 modèle 1932 (Submersible)"
+ FRA_submarine_dp_light_battery_3:0 "130 mm/45 modèle 1935 double-usage (Submersible)"
+ FRA_submarine_heavy_battery_1:0 "34 cm/45 modèle 1912 (Submersible)"
+ FRA_submarine_heavy_battery_2:0 "330 mm/50 modèle 1931 (Submersible)"
+ FRA_submarine_heavy_battery_3:0 "380 mm/45 modèle 1935 (Submersible)"
+ FRA_submarine_heavy_battery_4:0 "406 mm/45 modèle 1941 (Submersible)"
+ FRA_submarine_light_medium_battery_1:0 "155 mm/50 modèle 1920 (Submersible)"
+ FRA_submarine_light_medium_battery_2:0 "152 mm/55 modèle 1930 (Submersible)"
+ FRA_submarine_light_medium_battery_3:0 "152 mm/55 modèle 1930 contrôle distant (Submersible)"
+ FRA_submarine_light_medium_battery_4:1 "152 mm/55 modèle 1942 à chargement automatique (Submersible)"
+ FRA_submarine_medium_battery_1:0 "203 mm/50 modèle 1924 (Submersible)"
+ FRA_submarine_medium_battery_2:0 "203 mm/55 modèle 1931 (Submersible)"
+ FRA_submarine_medium_battery_3:0 "203 mm/55 modèle 1931 contrôle distant (Submersible)"
+ FRA_submarine_medium_battery_4:0 "203 mm/55 à chargement automatique (Submersible)"
+ ITA_submarine_light_battery_1:1 "102 mm/35 modèle 1914 (Submersible)"
+ ITA_submarine_light_battery_2:1 "Ansaldo 120 mm/50 modèle 1936 (Submersible)"
+ ITA_submarine_light_battery_3:1 "Ansaldo 135 mm/50 modèle 1938 (Submersible)"
+ ITA_submarine_light_battery_4:1 "Ansaldo 135 mm/45 à contrôle distant (Submersible)"
+ ITA_submarine_dp_light_battery_1:0 "100 mm/45 modèle 1924 (Submersible)"
+ ITA_submarine_dp_light_battery_2:0 "102 mm/45 modèle 1936 (Submersible)"
+ ITA_submarine_dp_light_battery_3:0 "Ansaldo 135 mm/45 modèle 1938 double-usage (Submersible)"
+ ITA_submarine_dp_light_battery_4:0 "135 mm/45 OTO modèle 1940 double-usage (Submersible)"
+ ITA_submarine_heavy_battery_1:0 "305 mm/46 (Submersible)"
+ ITA_submarine_heavy_battery_2:0 "OTO 320 mm/44 (Submersible)"
+ ITA_submarine_heavy_battery_3:0 "Ansaldo 381 mm/50  (Submersible)"
+ ITA_submarine_heavy_battery_4:0 "Ansaldo 406 mm/50 (Submersible)"
+ ITA_submarine_light_medium_battery_1:0 "152 mm/45 (Submersible)"
+ ITA_submarine_light_medium_battery_2:0 "Ansaldo 152 mm/53 (Submersible)"
+ ITA_submarine_light_medium_battery_3:1 "OTO 152 mm/55 modèle 1936 (Submersible)"
+ ITA_submarine_light_medium_battery_4:1 "OTO 152 mm/55 modèle 1936 à contrôle distant (Submersible)"
+ ITA_submarine_medium_battery_1:0 "190 mm/45 (Submersible)"
+ ITA_submarine_medium_battery_2:0 "Ansaldo 203 mm/50 (Submersible)"
+ ITA_submarine_medium_battery_3:0 "Ansaldo 203 mm/53 (Submersible)"
+ ITA_submarine_medium_battery_4:0 "Ansaldo 203 mm/53 à chargement automatique (Submersible)"
+ USA_submarine_light_battery_1:0 "4 pouces/50 Mk 9 (Submersible)"
+ USA_submarine_light_battery_2:1 "5 pouces/38 Mk 12 et Mk 22 mt (Submersible)"
+ USA_submarine_light_battery_3:1 "5 pouces/38 Mk 12 et Mk 30 mt simple usage (Submersible)"
+ USA_submarine_light_battery_4:1 "5 pouces/38 Mk 12 et Mk 38 mt simple usage (Submersible)"
+ USA_submarine_dp_light_battery_1:0 "5 pouces/38 Mk 12, Mk 21 mt (Submersible)"
+ USA_submarine_dp_light_battery_2:0 "5 pouces/38 Mk 12, Mk 25 mt (Submersible)"
+ USA_submarine_dp_light_battery_3:0 "5 pouces/38 Mk 12 et Mk 30 (Submersible)"
+ USA_submarine_dp_light_battery_4:0 "5 pouces/38 Mk 12, Mk 38 mt (Submersible)"
+ USA_submarine_heavy_battery_1:0 "14 pouces/50 Mk 6 (Submersible)"
+ USA_submarine_heavy_battery_2:0 "16 pouces/45 Mk 5 (Submersible)"
+ USA_submarine_heavy_battery_3:0 "16 pouces/45 Mk 6 (Submersible)"
+ USA_submarine_heavy_battery_4:0 "16 pouces/50 Mk 7 (Submersible)"
+ USA_submarine_light_medium_battery_1:0 "6 pouces/53 Mk 12 (Submersible)"
+ USA_submarine_light_medium_battery_2:0 "6 pouces/47 Mk 16 (Submersible)"
+ USA_submarine_light_medium_battery_3:0 "6 pouces/47 Mk 16 contrôle distant (Submersible)"
+ USA_submarine_light_medium_battery_4:1 "6 pouces/47 Mk 16 automatique à contrôle distant (Submersible)"
+ USA_submarine_medium_battery_1:0 "8 pouces/55 Mk 9 (Submersible)"
+ USA_submarine_medium_battery_2:0 "8 pouces/55 Mk 11 (Submersible)"
+ USA_submarine_medium_battery_3:0 "8 pouces/55 Mk 12 (Submersible)"
+ USA_submarine_medium_battery_4:0 "8 pouces/55 RF Mk 16 (Submersible)"
+ JAP_submarine_light_battery_1:1 "12 cm/45 type 3 (Submersible)"
+ JAP_submarine_light_battery_2:1 "12,7 cm/50 type 3, mt A (Submersible)"
+ JAP_submarine_light_battery_3:1 "12,7 cm/50 type 3, mt C (Submersible)"
+ JAP_submarine_light_battery_4:1 "12,7 cm/50 sans type, mt D (Submersible)"
+ JAP_submarine_dp_light_battery_1:0 "12,7 cm/50 Type 3, mt B (Submersible)"
+ JAP_submarine_dp_light_battery_2:0 "12,7 cm/50 Type 3, mt D (Submersible)"
+ JAP_submarine_dp_light_battery_3:0 "10 cm/65 type 98 (Submersible)"
+ JAP_submarine_dp_light_battery_4:0 "12,7 cm/50 Type 1 (Submersible)"
+ JAP_submarine_heavy_battery_1:0 "36 cm/45 type 41 (Submersible)"
+ JAP_submarine_heavy_battery_2:0 "41 cm/45 type 3 (Submersible)"
+ JAP_submarine_heavy_battery_3:0 "41 cm/45 type 98 (Submersible)"
+ JAP_submarine_heavy_battery_4:0 "41 cm/50 type 2 (Submersible)"
+ JAP_submarine_light_medium_battery_1:0 "14 cm/50 type 3 (Submersible)"
+ JAP_submarine_light_medium_battery_2:0 "15,5 cm/60 type 3 (Submersible)"
+ JAP_submarine_light_medium_battery_3:0 "15,5 cm/60 à contrôle distant (Submersible)"
+ JAP_submarine_medium_battery_1:0 "20 cm/50 type 1, 3e année (Submersible)"
+ JAP_submarine_medium_battery_2:0 "20 cm/50 type 3, 3e année (Submersible)"
+ JAP_submarine_medium_battery_3:0 "20 cm/50 type 3 à contrôle distant (Submersible)"
+ GER_submarine_light_battery_1:1 "10,5 cm/55 SchnelladeKanone C/28 (Submersible)"
+ GER_submarine_light_battery_2:0 "12,7 cm/45 SchnelladeKanone C/34 (Submersible)"
+ GER_submarine_light_battery_3:1 "15 cm/48 Tbts KC/36 (Submersible)"
+ GER_submarine_light_battery_4:1 "12,7 cm/45 SchnelladeKanone C/41 (Submersible)"
+ GER_submarine_dp_light_battery_1:0 "10,5 cm/55 SchnelladeKanone C/28 (Submersible)"
+ GER_submarine_dp_light_battery_2:0 "12,7 cm/45 SchnelladeKanone C/41 double-usage (Submersible)"
+ GER_submarine_dp_light_battery_3:0 "12,7 cm/45 SchnelladeKanone C/41 double-usage (Submersible)"
+ GER_submarine_dp_light_battery_4:0 "12,7 cm/45 SchnelladeKanone C/41 double-usage (Submersible)"
+ GER_submarine_heavy_battery_1:0 "28 cm/40 SchnelladeKanone L/40 (Submersible)"
+ GER_submarine_heavy_battery_2:0 "28 cm/54.5 SchnelladeKanone C/34 (Submersible)"
+ GER_submarine_heavy_battery_3:0 "38 cm/52 SchnelladeKanone C/34 (Submersible)"
+ GER_submarine_heavy_battery_4:0 "40,6 cm/52 SchnelladeKanone C/34 (Submersible)"
+ GER_submarine_light_medium_battery_1:1 "15 cm/45 SchnelladeKanone L/45 (Submersible)"
+ GER_submarine_light_medium_battery_2:1 "15 cm/60 SchnelladeKanone C/25 (Submersible)"
+ GER_submarine_light_medium_battery_3:1 "15 cm/55 SchnelladeKanone C/28 (Submersible)"
+ GER_submarine_light_medium_battery_4:1 "15 cm/55 SchnelladeKanone C/28 automatique (Submersible)"
+ GER_submarine_medium_battery_1:0 "21 cm/45 SchnelladeKanone L/45 (Submersible)"
+ GER_submarine_medium_battery_2:0 "20,3 cm/60 SchnelladeKanone C/34 (Submersible)"
+ GER_submarine_medium_battery_3:0 "20,3 cm/60 contrôle distant (Submersible)"
+ GER_submarine_medium_battery_4:0 "20,3 cm/60 Selbstlader (Submersible)"
+ SOV_submarine_light_battery_1:0 "102 mm/60 modèle 1911 (Submersible)"
+ SOV_submarine_light_battery_2:1 "130 mm/50 B13 modèle 1936, B-13-2 mt (Submersible)"
+ SOV_submarine_light_battery_3:1 "130 mm/50 B13 à contrôle distant, B-2LM mt (Submersible)"
+ SOV_submarine_light_battery_4:1 "130 mm/58 SM-2-1 simple usage (Submersible)"
+ SOV_submarine_dp_light_battery_1:0 "100 mm/50 Minizini (Submersible)"
+ SOV_submarine_dp_light_battery_2:0 "100 mm/56 B-34 modèle 1940 (Submersible)"
+ SOV_submarine_dp_light_battery_3:0 "130 mm/50 B13 B-2-U (Submersible)"
+ SOV_submarine_dp_light_battery_4:0 "130 mm/58 SM-2-1 (Submersible)"
+ SOV_submarine_heavy_battery_1:0 "305 mm/52 modèle 1907 (Submersible)"
+ SOV_submarine_heavy_battery_2:0 "305 mm/55 B-36 modèle 1937 (Submersible)"
+ SOV_submarine_heavy_battery_3:0 "406 mm/50 B-37 modèle 1937 (Submersible)"
+ SOV_submarine_heavy_battery_4:0 "406 mm/55 modèle 1942 (Submersible)"
+ SOV_submarine_light_medium_battery_1:0 "130 mm/55 modèle 1913 (Submersible)"
+ SOV_submarine_light_medium_battery_2:0 "152 mm/57 B-38/Mk 5 (Submersible)"
+ SOV_submarine_light_medium_battery_3:0 "152 mm/57 B-38/Mk 5-bis (Submersible)"
+ SOV_submarine_light_medium_battery_4:1 "152 mm/57 5-bis automatique (Submersible)"
+ SOV_submarine_medium_battery_1:0 "180 mm/60 B-1-K modèle 1931 (Submersible)"
+ SOV_submarine_medium_battery_2:0 "180 mm/57 B-1-P modèle 1932 (Submersible)"
+ SOV_submarine_medium_battery_3:0 "180 mm/57 B-2-P à contrôle distant (Submersible)"
+ SOV_submarine_medium_battery_4:0 "220 mm/65 SM-40 (Submersible)"
+ ARG_submarine_light_battery_1:0 "120 mm/45 Vickers Mk E (Submersible)"
+ ARG_submarine_light_battery_2:0 "120 mm/45 QF Mk IX (Submersible)"
+ ARG_submarine_heavy_battery_1:0 "30,5 cm/50 Bethlehem (Submersible)"
+ ARG_submarine_heavy_battery_2:0 "Canon 35,6 cm (Submersible)"
+ ARG_submarine_light_medium_battery_2:0 "15,2 cm/50 QF Mark W (Submersible)"
+ ARG_submarine_medium_battery_1:0 "23,8 cm/35 Krupp (Submersible)"
+ ARG_submarine_medium_battery_2:0 "19 cm/52 Odero-Terni (Submersible)"
+ BRA_submarine_light_battery_1:0 "102 mm/40 QF Mk IV (Submersible)"
+ BRA_submarine_light_battery_2:1 "127 mm/38 Mk 12 simple usage (Submersible)"
+ BRA_submarine_light_battery_3:1 "127 mm/38 Mk 12 simple usage à contrôle distant (Submersible)"
+ BRA_submarine_dp_light_battery_1:0 "127 mm/38 Mk 12, Mk 21 mt (Submersible)"
+ BRA_submarine_dp_light_battery_2:0 "127 mm/38 Mk 12, Mk 24 mt (Submersible)"
+ BRA_submarine_heavy_battery_1:0 "30,5 cm/45 Elswick L (Submersible)"
+ BRA_submarine_heavy_battery_2:0 "Canon 35,6 cm (Submersible)"
+ BRA_submarine_light_medium_battery_1:0 "12 cm/50 Elswick CC (Submersible)"
+ CHI_submarine_light_battery_1:0 "100 mm/44 Schneider-Canet modèle 1898 (Submersible)"
+ CHI_submarine_light_medium_battery_1:0 "14,9 cm/37 SchnelladeKanone L/40 C/97 (Submersible)"
+ CHI_submarine_light_medium_battery_2:0 "14 cm/50 type 3e année (Submersible)"
+ CHI_submarine_medium_battery_1:0 "20,3 cm/45 Armstrong T (Submersible)"
+ CHI_submarine_medium_battery_2:0 "Canon 20,3 cm/50 (Submersible)"
+ CHI_submarine_medium_battery_3:0 "20,3 cm/50 à contrôle distant (Submersible)"
+ CHI_submarine_medium_battery_4:0 "20,3 cm/50 automatique (Submersible)"
+ CHL_submarine_light_battery_1:0 "120 mm/45 QF Vickers E (Submersible)"
+ CHL_submarine_heavy_battery_1:0 "35,6 cm/45 Armstrong A (Submersible)"
+ CHL_submarine_heavy_battery_2:0 "Canon 35,6 cm/50 (Submersible)"
+ CHL_submarine_medium_battery_1:0 "20,3 cm/40 Armstrong T (Submersible)"
+ CHL_submarine_medium_battery_2:0 "Canon 20,3 cm/45 (Submersible)"
+ CHL_submarine_medium_battery_3:0 "Canon 20,3 cm/50 (Submersible)"
+ CHL_submarine_medium_battery_4:0 "20,3 cm/50 automatique (Submersible)"
+ DEN_submarine_heavy_battery_1:0 "24 cm/42 K/43 modèle 1906 (Submersible)"
+ DEN_submarine_light_medium_battery_1:0 "14,9 cm/45 PK L/45 (Submersible)"
+ FIN_submarine_light_battery_1:0 "102 mm/60 modèle 1911 (Submersible)"
+ FIN_submarine_heavy_battery_1:0 "Bofors 25,4 cm/45 (Submersible)"
+ GRE_submarine_light_battery_1:0 "102 mm/50 Armstrong P (Submersible)"
+ GRE_submarine_light_battery_2:0 "128 mm/42 SchnelladeKanone C/34 (Submersible)"
+ GRE_submarine_light_medium_battery_1:0 "15,2 cm/45 Armstrong NN (Submersible)"
+ GRE_submarine_light_medium_battery_2:0 "Canon 15,2 cm/50 (Submersible)"
+ GRE_submarine_light_medium_battery_3:0 "15,5 cm/50 à contrôle distant (Submersible)"
+ GRE_submarine_light_medium_battery_4:0 "15,5 cm/50 automatique (Submersible)"
+ GRE_submarine_medium_battery_1:0 "23,4 cm/45 Armstrong H (Submersible)"
+ GRE_submarine_medium_battery_2:0 "20,3 cm/50 (Submersible)"
+ GRE_submarine_medium_battery_3:0 "20,3 cm/50 à contrôle distant (Submersible)"
+ GRE_submarine_medium_battery_4:0 "20,3 cm/50 automatique (Submersible)"
+ HOL_submarine_light_battery_1:0 "120 mm/50 Wilton-Fijenoord 5 (Submersible)"
+ HOL_submarine_light_battery_2:1 "120 mm/50 Wilton-Fijenoord 7 (Submersible)"
+ HOL_submarine_light_battery_3:1 "120 mm/45 Wilton-Fijenoord 8 (Submersible)"
+ HOL_submarine_light_battery_4:0 "120 mm/50 W-F Mk 10 simple usage (Submersible)"
+ HOL_submarine_dp_light_battery_1:0 "120 mm/45 W-F Mk 7 double-usage (Submersible)"
+ HOL_submarine_dp_light_battery_2:0 "120 mm/45 W-F Mk 8 double-usage (Submersible)"
+ HOL_submarine_dp_light_battery_4:0 "120 mm/50 Wilton-Fijenoord Mk 10 double-usage (Submersible)"
+ HOL_submarine_heavy_battery_1:0 "28 cm/42 Krupp N°3 (Submersible)"
+ HOL_submarine_heavy_battery_2:0 "28 cm/55 Krupp (Submersible)"
+ HOL_submarine_light_medium_battery_1:0 "14,9 cm/50 Wilton-Fijenoord 6 (Submersible)"
+ HOL_submarine_light_medium_battery_2:0 "14,9 cm/50 Wilton-Fijenoord 9 (Submersible)"
+ HOL_submarine_light_medium_battery_3:0 "14,9 cm/50 Wilton-Fijenoord 11 (Submersible)"
+ NOR_submarine_light_battery_1:0 "76 mm/40 Armstrong Elswick (Submersible)"
+ NOR_submarine_light_battery_2:0 "120 mm/44 Bofors (Submersible)"
+ NOR_submarine_medium_battery_1:0 "20,9 cm/44 Elswick modèle 1899 (Submersible)"
+ NOR_submarine_medium_battery_2:0 "20,3 cm/50 (Submersible)"
+ NOR_submarine_medium_battery_3:0 "20,3 cm/50 à contrôle distant (Submersible)"
+ NOR_submarine_medium_battery_4:0 "20,3 cm/50 automatique (Submersible)"
+ POL_submarine_light_battery_1:0 "130mm/40 modèle 1924 (Submersible)"
+ POL_submarine_light_battery_2:0 "120mm/50 Bofors modèle 1934/1936 (Submersible)"
+ POR_submarine_light_battery_1:0 "100 mm/41 Armstrong N (Submersible)"
+ POR_submarine_light_battery_2:0 "120 mm/50 Vickers G (Submersible)"
+ PRU_submarine_light_battery_1:0 "102 mm/60 modèle 1911 (Submersible)"
+ PRU_submarine_light_medium_battery_1:0 "15,2 cm/50 Vickers J (Submersible)"
+ PRU_submarine_light_medium_battery_2:0 "Canon 15,5 cm/50 (Submersible)"
+ PRU_submarine_light_medium_battery_3:0 "15,5 cm/50 à contrôle distant (Submersible)"
+ PRU_submarine_light_medium_battery_4:0 "15,5 cm/50 automatique (Submersible)"
+ ROM_submarine_light_battery_1:0 "120 mm/45 SCA modèle 1918-19 (Submersible)"
+ ROM_submarine_light_battery_2:0 "120 mm/50 Bofors Mk 4 (Submersible)"
+ SIA_submarine_light_battery_1:0 "102 mm/40 à tir rapide Mk IV (Submersible)"
+ SIA_submarine_medium_battery_2:0 "20 cm/50 3e année N°2 (Submersible)"
+ SIA_submarine_medium_battery_3:0 "20,3 cm/50 à contrôle distant (Submersible)"
+ SIA_submarine_medium_battery_4:0 "20,3 cm automatique (Submersible)"
+ SPR_submarine_light_battery_1:0 "102 mm/45 Vickers Mk L (Submersible)"
+ SPR_submarine_light_battery_2:0 "120 mm/45 Vickers Mk F (Submersible)"
+ SPR_submarine_heavy_battery_1:0 "30,5 cm/50 Vickers Mk H (Submersible)"
+ SPR_submarine_heavy_battery_2:0 "Canon de 35,6 cm (Submersible)"
+ SPR_submarine_light_medium_battery_1:0 "15,2 cm/50 Vickers Mk V (Submersible)"
+ SPR_submarine_light_medium_battery_2:0 "15,2 cm/50 Vickers Mk U (Submersible)"
+ SPR_submarine_medium_battery_1:0 "20,3 cm/50 Vickers Mk D (Submersible)"
+ SPR_submarine_medium_battery_2:0 "20,3 cm/50 Curraca F (Submersible)"
+ SPR_submarine_medium_battery_3:0 "20,3 cm/50 à contrôle distant (Submersible)"
+ SPR_submarine_medium_battery_4:0 "20,3 cm/50 automatique (Submersible)"
+ SWE_submarine_light_battery_1:0 "12 cm/45 Bofors modèle 1924 (Submersible)"
+ SWE_submarine_light_battery_2:0 "12 cm/45 Bofors modèle 1924C (Submersible)"
+ SWE_submarine_light_battery_3:0 "12 cm/50 Bofors modèle 1936 (Submersible)"
+ SWE_submarine_light_battery_4:0 "12 cm/50 Bofors modèle 1942 (Submersible)"
+ SWE_submarine_dp_light_battery_1:0 "12 cm/45 Bofors modèle 24 double-usage (Submersible)"
+ SWE_submarine_dp_light_battery_2:0 "12 cm/45 Bofors modèle 24C double-usage (Submersible)"
+ SWE_submarine_dp_light_battery_3:0 "12 cm/50 Bofors modèle 36 double-usage (Submersible)"
+ SWE_submarine_dp_light_battery_4:0 "12 cm/50 Bofors modèle 1942 double-usage (Submersible)"
+ SWE_submarine_heavy_battery_1:0 "28,3 cm/45 Bofors modèle 1912 (Submersible)"
+ SWE_submarine_heavy_battery_2:0 "30,5 cm/45 Bofors modèle 1929 (Submersible)"
+ SWE_submarine_heavy_battery_3:0 "38 cm/48 Bofors modèle 1938 (Submersible)"
+ SWE_submarine_heavy_battery_4:0 "40,6 cm/48 Bofors modèle 1941 (Submersible)"
+ SWE_submarine_light_medium_battery_1:1 "15,2 cm/50 Bofors modèle 1903 (Submersible)"
+ SWE_submarine_light_medium_battery_2:1 "15,2 cm/55 Bofors modèle 1930 (Submersible)"
+ SWE_submarine_light_medium_battery_3:1 "15,2 cm/53 Bofors modèle 1942 (Submersible)"
+ SWE_submarine_light_medium_battery_4:1 "15 cm/53 Bofors modèle 1942 automatique RF (Submersible)"
+ SWE_submarine_medium_battery_1:0 "20,8 cm/44 Bofors modèle 1898 (Submersible)"
+ SWE_submarine_medium_battery_2:0 "20,3 cm/45 Bofors modèle 1932 (Submersible)"
+ SWE_submarine_medium_battery_3:0 "20,3 cm/50 Bofors modèle 1938 (Submersible)"
+ SWE_submarine_medium_battery_4:0 "20,3 cm/50 Bofors automatique (Submersible)"
+ TUR_submarine_light_battery_1:0 "105 mm/37 SchnelladeKanone L/40 C/97 (Submersible)"
+ TUR_submarine_light_battery_2:0 "120 mm/50 Ansaldo 1926 (Submersible)"
+ TUR_submarine_heavy_battery_1:0 "28 cm/50 SchnelladeKanone L/50 (Submersible)"
+ TUR_submarine_light_medium_battery_1:0 "15,2 cm/45 Armstrong (Submersible)"
+ TUR_submarine_light_medium_battery_2:0 "Canon 15,2 cm/50 (Submersible)"
+ TUR_submarine_light_medium_battery_3:0 "15,5 cm/50 à contrôle distant (Submersible)"
+ TUR_submarine_light_medium_battery_4:0 "15,5 cm/50 automatique (Submersible)"
+ URG_submarine_light_battery_1:0 "Krupp QF 120 mm/45 (Submersible)"
+ URG_submarine_light_battery_2:0 "Canon de 120 mm/50 (Submersible)"
+ YUG_submarine_light_battery_1:0 "120 mm/46 Škoda (Submersible)"
+ YUG_submarine_light_battery_2:0 "120 mm/56 Škoda (Submersible)"
+ submarine_dp_light_battery:0 "Batterie double-usage 127 mm (Submersible)" # [LocEditor:CustomLanguageKey]
+ submarine_dp_light_battery_short:0 "127 mm double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ submarine_dp_light_battery_desc:0 "Un canon de calibre réduit agencé de manière à pouvoir tirer sur les avions autant que sur les navires de surface. (Submersible)" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_battery_1_short:0 "4.7in/45 BL Mk I (Submersible)" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_battery_2_short:0 "4.7in QF Mk IX, CP Mk XIV mt (Submersible)" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_battery_3_short:0 "4.7in QF Mk XI, Mk XX mt (Submersible)" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_battery_4_short:0 "4.5in QF Mk IV, RP 50 Mk V mt (Submersible)" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_dp_light_battery:0 "4,5 pouces QF Mk I double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_dp_light_battery_short:0 "4,5 (Submersible)" QF Mk dble-usage" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_heavy_battery_1_short:0 "Mk I 15 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_heavy_battery_2_short:0 "Mk VII 14 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_heavy_battery_3_short:0 "Mk II/III 16 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_heavy_battery_4_short:0 "Mk IV 16 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_medium_battery_1_short:0 "BL Mk XII 6 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_medium_battery_2_short:0 "BL Mk XXIII 6 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_medium_battery_3_short:0 "BL Mk XXIII 6 (Submersible)" RP" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_light_medium_battery_4_short:0 "QF Mk V LA 6 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_medium_battery_1_short:0 "Mk VI 7,5 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_medium_battery_2_short:0 "Mk VII 8 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_medium_battery_3_short:0 "Mk IX/X 8 (Submersible)"" # [LocEditor:CustomLanguageKey]
+ ENG_submarine_medium_battery_4_short:0 "8 (Submersible)" automatique" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_battery_1_short:0 "130 mm/40 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_battery_2_short:0 "138,6 mm/40 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_battery_3_short:0 "138,6 mm/50 1934 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_battery_4_short:0 "138,6 mm/50 1938 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_dp_light_battery:0 "130 mm/45 modèle 1935 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_dp_light_battery_short:0 "130 mm/45 1932 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_heavy_battery_1_short:0 "34 cm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_heavy_battery_2_short:0 "330 mm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_heavy_battery_3_short:0 "380 mm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_heavy_battery_4_short:0 "406 mm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_medium_battery_1_short:0 "155 mm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_medium_battery_2_short:0 "152 mm/55 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_medium_battery_3_short:0 "152 mm/55 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_light_medium_battery_4_short:0 "152 mm/55 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_medium_battery_1_short:0 "203 mm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_medium_battery_2_short:0 "203 mm/55 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_medium_battery_3_short:0 "203 mm/55 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ FRA_submarine_medium_battery_4_short:0 "203 mm/55 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_battery_1_short:0 "102 mm/35 modèle 1914 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_battery_2_short:0 "120 mm/50 1936 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_battery_3_short:0 "135 mm/50 1938 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_battery_4_short:0 "Ansaldo 135 mm/45 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_dp_light_battery:0 "Ansaldo 120 mm/50 double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_dp_light_battery_short:0 "135 mm/45 1938 dble-us. (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_heavy_battery_1_short:0 "305 mm/46 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_heavy_battery_2_short:0 "OTO 320 mm/44 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_heavy_battery_3_short:0 "Ansaldo 381 mm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_heavy_battery_4_short:0 "Ansaldo 406 mm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_medium_battery_1_short:0 "152 mm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_medium_battery_2_short:0 "Ansaldo 152 mm/53 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_medium_battery_3_short:0 "OTO 152 mm/55 1936 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_light_medium_battery_4_short:0 "OTO 152 mm/55 1936 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_medium_battery_1_short:0 "190 mm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_medium_battery_2_short:0 "Ansaldo 203 mm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_medium_battery_3_short:0 "Ansaldo 203 mm/53 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ITA_submarine_medium_battery_4_short:0 "203 mm/53 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_battery_1_short:0 "4 (Submersible)"/50 Mk 9" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_battery_2_short:0 "5 (Submersible)"/38 Mk 12, Mk 22 mt" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_battery_3_short:0 "5 (Submersible)"/38 Mk 12, Mk 30 mt" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_battery_4_short:0 "5 (Submersible)"/38 Mk 12, Mk 38 mt" # [LocEditor:CustomLanguageKey]
+ USA_submarine_dp_light_battery:0 "5 pouces/38 Mk 12 et Mk 30 double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ USA_submarine_dp_light_battery_short:0 "5 (Submersible)"/38 Mk 12, Mk 30 DP" # [LocEditor:CustomLanguageKey]
+ USA_submarine_heavy_battery_1_short:0 "14 (Submersible)"/50 Mk 6" # [LocEditor:CustomLanguageKey]
+ USA_submarine_heavy_battery_2_short:0 "16 (Submersible)"/45 Mk 5" # [LocEditor:CustomLanguageKey]
+ USA_submarine_heavy_battery_3_short:0 "16 (Submersible)"/45 Mk 6" # [LocEditor:CustomLanguageKey]
+ USA_submarine_heavy_battery_4_short:0 "16 (Submersible)"/50 Mk 7" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_medium_battery_1_short:0 "6 (Submersible)"/53 Mk 12" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_medium_battery_2_short:0 "6 (Submersible)"/47 Mk 16" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_medium_battery_3_short:0 "6 (Submersible)"/47 Mk 16 RPC" # [LocEditor:CustomLanguageKey]
+ USA_submarine_light_medium_battery_4_short:0 "6 (Submersible)"/47 Mk 16 RPC auto." # [LocEditor:CustomLanguageKey]
+ USA_submarine_medium_battery_1_short:0 "8 (Submersible)"/55 Mk 9" # [LocEditor:CustomLanguageKey]
+ USA_submarine_medium_battery_2_short:0 "8 (Submersible)"/55 Mk 11" # [LocEditor:CustomLanguageKey]
+ USA_submarine_medium_battery_3_short:0 "8 (Submersible)"/55 Mk 12" # [LocEditor:CustomLanguageKey]
+ USA_submarine_medium_battery_4_short:0 "8 (Submersible)"/55 RF Mk 16" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_light_battery_1_short:0 "12 cm/45 type 3 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_light_battery_2_short:0 "12,7 cm/50 type 3 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_light_battery_3_short:0 "12,7 cm/50 type 3 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_light_battery_4_short:0 "12,7 cm/50 mt D (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_dp_light_battery:0 "10 cm/65 type 98 double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_dp_light_battery_short:0 "10 cm/65 type 98 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_heavy_battery_1_short:0 "36 cm/45 type 41 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_heavy_battery_2_short:0 "41 cm/45 type 3 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_heavy_battery_3_short:0 "41 cm/45 type 98 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_heavy_battery_4_short:0 "41 cm/50 type 2 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_light_medium_battery_1_short:0 "14 cm/50 type 3 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_light_medium_battery_2_short:0 "15,5 cm/60 type 3 (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_light_medium_battery_3_short:0 "15,5 cm/60 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_medium_battery_1_short:0 "20 cm/50 n°1, 3e année (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_medium_battery_2_short:0 "20 cm/50 n°3, 3e année (Submersible)" # [LocEditor:CustomLanguageKey]
+ JAP_submarine_medium_battery_3_short:0 "20 cm/50 type 3 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_battery_1_short:0 "10,5 cm/55 SK C/28 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_battery_2_short:0 "12,7 cm/45 SK C/34 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_battery_3_short:0 "15 cm/48 Tbts KC/36 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_battery_4_short:0 "12,7 cm/45 SK C/41 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_dp_light_battery:0 "12,7 cm/45 SchnelladeKanone C/41 double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_dp_light_battery_short:0 "12,7 cm/45 SK C/41 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_heavy_battery_1_short:0 "28 cm/40 SK L/40 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_heavy_battery_2_short:0 "28 cm/54.5 SK C/34 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_heavy_battery_3_short:0 "38 cm/52 SK C/34 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_heavy_battery_4_short:0 "40,6 cm/52 SK C/34 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_medium_battery_1_short:0 "15 cm/45 SK L/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_medium_battery_2_short:0 "15 cm/60 SK C/25 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_medium_battery_3_short:0 "15 cm/55 SK C/28 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_light_medium_battery_4_short:0 "15 cm/55 SK C/28 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_medium_battery_1_short:0 "21 cm/45 SK L/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_medium_battery_2_short:0 "20,3 cm/60 SK C/34 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_medium_battery_3_short:0 "20,3 cm/60 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ GER_submarine_medium_battery_4_short:0 "20,3 cm/60 Selbstlader (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_battery_1_short:0 "102 mm/60 M1911 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_battery_2_short:0 "130 mm/50 B13 1936, B-13-2 mt (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_battery_3_short:0 "130 mm/50 B13 RPC, B-2LM mt (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_battery_4_short:0 "130 mm/58 SM-2-1 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_dp_light_battery:0 "130 mm/50 B13 B-2-U (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_dp_light_battery_short:0 "130 mm/50 B13 B-2-U (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_heavy_battery_1_short:0 "305 mm/52 1907 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_heavy_battery_2_short:0 "305 mm/55 B-36 1937 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_heavy_battery_3_short:0 "406 mm/50 B-37 1937 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_heavy_battery_4_short:0 "406 mm/55 1942 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_medium_battery_1_short:0 "130 mm/55 M1913 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_medium_battery_2_short:0 "152 mm/57 Mk 5 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_medium_battery_3_short:0 "152 mm/57 Mk 5-bis (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_light_medium_battery_4_short:0 "152 mm/57 5-bis auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_medium_battery_1_short:0 "180 mm/60 B-1-K (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_medium_battery_2_short:0 "180 mm/57 B-1-P (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_medium_battery_3_short:0 "180 mm/57 B-2-P RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ SOV_submarine_medium_battery_4_short:0 "220 mm/65 SM-40 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ARG_submarine_light_battery_1_short:0 "120 mm/45 Vickers E (Submersible)" # [LocEditor:CustomLanguageKey]
+ ARG_submarine_light_battery_2_short:0 "120 mm/45 QF Mk IX (Submersible)" # [LocEditor:CustomLanguageKey]
+ ARG_submarine_heavy_battery_1_short:0 "30,5 cm/50 Bethlehem (Submersible)" # [LocEditor:CustomLanguageKey]
+ ARG_submarine_heavy_battery_2_short:0 "35,6 cm (Submersible)" # [LocEditor:CustomLanguageKey]
+ ARG_submarine_light_medium_battery_2_short:0 "15,2 cm/50 QF Mark W (Submersible)" # [LocEditor:CustomLanguageKey]
+ ARG_submarine_medium_battery_1_short:0 "23,8 cm/35 Krupp (Submersible)" # [LocEditor:CustomLanguageKey]
+ ARG_submarine_medium_battery_2_short:0 "19 cm/52 Odero-Terni (Submersible)" # [LocEditor:CustomLanguageKey]
+ BRA_submarine_light_battery_1_short:0 "102 mm/40 QF Mk IV (Submersible)" # [LocEditor:CustomLanguageKey]
+ BRA_submarine_light_battery_2_short:0 "127 mm/38 Mk 12 (Submersible)" # [LocEditor:CustomLanguageKey]
+ BRA_submarine_light_battery_3_short:0 "127 mm/38 Mk 12 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ BRA_submarine_heavy_battery_1_short:0 "30,5 cm/45 EOC L (Submersible)" # [LocEditor:CustomLanguageKey]
+ BRA_submarine_heavy_battery_2_short:0 "35,6 cm (Submersible)" # [LocEditor:CustomLanguageKey]
+ BRA_submarine_light_medium_battery_1_short:0 "12 cm/50 EOC CC (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHI_submarine_light_battery_1_short:0 "100 mm/44 Canet 1898 (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHI_submarine_light_medium_battery_1_short:0 "14,9 cm/37 SK L/40 (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHI_submarine_light_medium_battery_2_short:0 "14 cm/50 3e année (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHI_submarine_medium_battery_1_short:0 "20,3 cm/45 Armstr. T (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHI_submarine_medium_battery_2_short:0 "20,3 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHI_submarine_medium_battery_3_short:0 "20,3 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHI_submarine_medium_battery_4_short:0 "20,3 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHL_submarine_light_battery_1_short:0 "120 mm/45 Vickers E (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHL_submarine_heavy_battery_1_short:0 "35,6 cm/45 Armstr. A (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHL_submarine_heavy_battery_2_short:0 "35,6 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHL_submarine_medium_battery_1_short:0 "20,3 cm/40 Armstr. T (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHL_submarine_medium_battery_2_short:0 "20,3 cm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHL_submarine_medium_battery_3_short:0 "20,3 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ CHL_submarine_medium_battery_4_short:0 "20,3 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ DEN_submarine_heavy_battery_1_short:0 "24 cm/42 K/43 M1906 (Submersible)" # [LocEditor:CustomLanguageKey]
+ DEN_submarine_light_medium_battery_1_short:0 "14,9 cm/45 PK L/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FIN_submarine_light_battery_1_short:0 "102 mm/60 M1911 (Submersible)" # [LocEditor:CustomLanguageKey]
+ FIN_submarine_heavy_battery_1_short:0 "Bofors 25,4 cm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_light_battery_1_short:0 "102 mm/50 Armstr. P (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_light_battery_2_short:0 "128 mm/42 SK C/34 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_light_medium_battery_1_short:0 "15,2 cm/45 Armstr. NN (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_light_medium_battery_2_short:0 "15,2 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_light_medium_battery_3_short:0 "15,5 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_light_medium_battery_4_short:0 "15,5 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_medium_battery_1_short:0 "23,4 cm/45 Armstr. H (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_medium_battery_2_short:0 "20,3 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_medium_battery_3_short:0 "20,3 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ GRE_submarine_medium_battery_4_short:0 "20,3 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_light_battery_1_short:0 "120 mm/50 W.-F. 5 (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_light_battery_2_short:0 "120 mm/50 W.-F. 7 (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_light_battery_3_short:0 "120 mm/45 W.-F. 8 (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_dp_light_battery:0 "120 mm/50 Wilton-Fijenoord Mk 10 double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_dp_light_battery_short:0 "120 mm/50 dble-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_heavy_battery_1_short:0 "28 cm/42 Krupp N°3 (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_heavy_battery_2_short:0 "28 cm/55 Krupp (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_light_medium_battery_1_short:0 "14,9 cm/50 W.-F. 6 (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_light_medium_battery_2_short:0 "14,9 cm/50 W.-F. 9 (Submersible)" # [LocEditor:CustomLanguageKey]
+ HOL_submarine_light_medium_battery_3_short:0 "14,9 cm/50 W.-F. 11 (Submersible)" # [LocEditor:CustomLanguageKey]
+ NOR_submarine_light_battery_1_short:0 "76 mm/40 Armstr. EOC (Submersible)" # [LocEditor:CustomLanguageKey]
+ NOR_submarine_light_battery_2_short:0 "120 mm/44 Bofors (Submersible)" # [LocEditor:CustomLanguageKey]
+ NOR_submarine_medium_battery_1_short:0 "20,9 cm/44 EOC 1899 (Submersible)" # [LocEditor:CustomLanguageKey]
+ NOR_submarine_medium_battery_2_short:0 "20,3 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ NOR_submarine_medium_battery_3_short:0 "20,3 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ NOR_submarine_medium_battery_4_short:0 "20,3 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ POL_submarine_light_battery_1_short:0 "130mm/40 M1924 (Submersible)" # [LocEditor:CustomLanguageKey]
+ POL_submarine_light_battery_2_short:0 "12 cm/50 Bofors 34/36 (Submersible)" # [LocEditor:CustomLanguageKey]
+ POR_submarine_light_battery_1_short:0 "100 mm/41 Armstr. N (Submersible)" # [LocEditor:CustomLanguageKey]
+ POR_submarine_light_battery_2_short:0 "120 mm/50 Vickers G (Submersible)" # [LocEditor:CustomLanguageKey]
+ PRU_submarine_light_battery_1_short:0 "102 mm/60 M1911 (Submersible)" # [LocEditor:CustomLanguageKey]
+ PRU_submarine_light_medium_battery_1_short:0 "15,2 cm/50 Vickers J (Submersible)" # [LocEditor:CustomLanguageKey]
+ PRU_submarine_light_medium_battery_2_short:0 "15,5 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ PRU_submarine_light_medium_battery_3_short:0 "15,5 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ PRU_submarine_light_medium_battery_4_short:0 "15,5 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ ROM_submarine_light_battery_1_short:0 "120 mm/45 M1918-19 (Submersible)" # [LocEditor:CustomLanguageKey]
+ ROM_submarine_light_battery_2_short:0 "120 mm/50 Bofors (Submersible)" # [LocEditor:CustomLanguageKey]
+ SIA_submarine_light_battery_1_short:0 "102 mm/40 QF Mk IV (Submersible)" # [LocEditor:CustomLanguageKey]
+ SIA_submarine_medium_battery_2_short:0 "20 cm/50 3e année N°2 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SIA_submarine_medium_battery_3_short:0 "20,3 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ SIA_submarine_medium_battery_4_short:0 "20,3 cm automatique (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_light_battery_1_short:0 "102 mm/45 Vickers L (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_light_battery_2_short:0 "120 mm/45 Vickers F (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_heavy_battery_1_short:0 "30,5 cm/50 Vickers H (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_heavy_battery_2_short:0 "35,6 cm (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_light_medium_battery_1_short:0 "15,2 cm/50 Vickers V (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_light_medium_battery_2_short:0 "15,2 cm/50 Vickers U (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_medium_battery_1_short:0 "20,3 cm/50 Vickers D (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_medium_battery_2_short:0 "20,3 cm/50 Curraca F (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_medium_battery_3_short:0 "20,3 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ SPR_submarine_medium_battery_4_short:0 "20,3 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_battery_1_short:0 "12 cm/45 Bofors M24 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_battery_2_short:0 "12 cm/45 Bofors M24C (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_battery_3_short:0 "12 cm/50 Bofors M36 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_battery_4_short:0 "12 cm/50 Bofors M42 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_dp_light_battery:0 "12 cm/50 Bofors modèle 1942 double-usage (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_dp_light_battery_short:0 "12 cm/50 Bofors DP (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_heavy_battery_1_short:0 "28,3 cm/45 Bofors M12 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_heavy_battery_2_short:0 "30,5 cm/45 Bofors M29 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_heavy_battery_3_short:0 "38 cm/48 Bofors M38 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_heavy_battery_4_short:0 "40,6 cm/48 Bofors M41 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_medium_battery_1_short:0 "15,2 cm/50 Bofors M03 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_medium_battery_2_short:0 "15,2 cm/55 Bofors M30 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_medium_battery_3_short:0 "15,2 cm/53 Bofors M42 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_light_medium_battery_4_short:0 "15,5 cm/53 M42 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_medium_battery_1_short:0 "20,8 cm/44 Bofors M98 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_medium_battery_2_short:0 "20,3 cm/45 Bofors M32 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_medium_battery_3_short:0 "20,3 cm/50 Bofors M38 (Submersible)" # [LocEditor:CustomLanguageKey]
+ SWE_submarine_medium_battery_4_short:0 "20,3 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ TUR_submarine_light_battery_1_short:0 "105 mm/37 SK L/40 (Submersible)" # [LocEditor:CustomLanguageKey]
+ TUR_submarine_light_battery_2_short:0 "120 mm/50 Ansaldo (Submersible)" # [LocEditor:CustomLanguageKey]
+ TUR_submarine_heavy_battery_1_short:0 "28 cm/50 SK L/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ TUR_submarine_light_medium_battery_1_short:0 "15,2 cm/45 Armstrong (Submersible)" # [LocEditor:CustomLanguageKey]
+ TUR_submarine_light_medium_battery_2_short:0 "15,2 cm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ TUR_submarine_light_medium_battery_3_short:0 "15,5 cm/50 RPC (Submersible)" # [LocEditor:CustomLanguageKey]
+ TUR_submarine_light_medium_battery_4_short:0 "15,5 cm/50 auto. (Submersible)" # [LocEditor:CustomLanguageKey]
+ URG_submarine_light_battery_1_short:0 "Krupp QF 120 mm/45 (Submersible)" # [LocEditor:CustomLanguageKey]
+ URG_submarine_light_battery_2_short:0 "Canon 120 mm/50 (Submersible)" # [LocEditor:CustomLanguageKey]
+ YUG_submarine_light_battery_1_short:0 "120 mm/46 Škoda (Submersible)" # [LocEditor:CustomLanguageKey]
+ YUG_submarine_light_battery_2_short:0 "120 mm/56 Škoda (Submersible)" # [LocEditor:CustomLanguageKey]

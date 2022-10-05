@@ -1,0 +1,477 @@
+equipment_modules = {
+	submarine_light_battery_1 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_battery_1
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 0.9
+			build_cost_ic = 108.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.01
+			reliability = -0.06
+		}
+		add_average_stats = {
+			lg_armor_piercing = 1.0
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_light_battery_2 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_battery_2
+		parent = submarine_light_battery_1
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 1.35
+			build_cost_ic = 144.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.02
+			reliability = -0.045
+		}
+		add_average_stats = {
+			lg_armor_piercing = 2.0
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_light_battery_3 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_battery_3
+		parent = submarine_light_battery_2
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 1.8
+			build_cost_ic = 180.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.03
+			reliability = -0.03
+		}
+		add_average_stats = {
+			lg_armor_piercing = 2.5
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_light_battery_4 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_battery_4
+		parent = submarine_light_battery_3
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 2.7
+			build_cost_ic = 210.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.04
+			reliability = -0.015
+		}
+		add_average_stats = {
+			lg_armor_piercing = 2.5
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_dp_light_battery_1 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_dp_light_battery_1
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 0.9
+			anti_air_attack = 0.8
+			build_cost_ic = 120.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.01
+			reliability = -0.06
+		}
+		add_average_stats = {
+			lg_armor_piercing = 0.5
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_dp_light_battery_2 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_dp_light_battery_2
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 1.35
+			anti_air_attack = 1.6
+			build_cost_ic = 156.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.02
+			reliability = -0.045
+		}
+		add_average_stats = {
+			lg_armor_piercing = 1.0
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_dp_light_battery_3 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_dp_light_battery_3
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 1.8
+			anti_air_attack = 2.4000000000000004
+			build_cost_ic = 192.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.03
+			reliability = -0.03
+		}
+		add_average_stats = {
+			lg_armor_piercing = 1.75
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_dp_light_battery_4 = {
+		category = submarine_light_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_dp_light_battery_4
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 2.25
+			anti_air_attack = 3.2
+			build_cost_ic = 222.0
+			surface_visibility = 1.5
+			sub_visibility = 1.5
+		}
+		multiply_stats = {
+			naval_speed = -0.04
+			reliability = -0.015
+		}
+		add_average_stats = {
+			lg_armor_piercing = 1.75
+		}
+		dismantle_cost_ic = 50
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_heavy_battery_1 = {
+		category = submarine_heavy_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_heavy_battery_1
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 2.16
+			build_cost_ic = 450.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.05
+			max_strength = 0.2
+			reliability = -0.12000000000000001
+			naval_range = -0.1
+		}
+		add_average_stats = {
+			hg_armor_piercing = 31.0
+		}
+		dismantle_cost_ic = 200
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_heavy_battery_2 = {
+		category = submarine_heavy_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_heavy_battery_2
+		parent = submarine_heavy_battery_1
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 2.52
+			build_cost_ic = 486.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.06
+			max_strength = 0.2
+			reliability = -0.1
+			naval_range = -0.1
+		}
+		add_average_stats = {
+			hg_armor_piercing = 36.0
+		}
+		dismantle_cost_ic = 200
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_heavy_battery_3 = {
+		category = submarine_heavy_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_heavy_battery_3
+		parent = submarine_heavy_battery_2
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 2.7
+			build_cost_ic = 522.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.07
+			max_strength = 0.2
+			reliability = -0.08000000000000002
+			naval_range = -0.1
+		}
+		add_average_stats = {
+			hg_armor_piercing = 40.0
+		}
+		dismantle_cost_ic = 200
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_heavy_battery_4 = {
+		category = submarine_heavy_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_heavy_battery_4
+		parent = submarine_heavy_battery_3
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 2.88
+			build_cost_ic = 558.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.08
+			max_strength = 0.2
+			reliability = -0.06000000000000001
+			naval_range = -0.1
+		}
+		add_average_stats = {
+			hg_armor_piercing = 43.0
+		}
+		dismantle_cost_ic = 200
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_medium_battery_1 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_medium_battery_1
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 2.4
+			build_cost_ic = 450.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.04
+			max_strength = 0.1
+			reliability = -0.09
+		}
+		add_average_stats = {
+			hg_armor_piercing = 22.0
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_medium_battery_2 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_medium_battery_2
+		parent = submarine_medium_battery_1
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 2.6999999999999997
+			build_cost_ic = 480.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.06
+			max_strength = 0.1
+			reliability = -0.075
+		}
+		add_average_stats = {
+			hg_armor_piercing = 25.0
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_medium_battery_3 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_medium_battery_3
+		parent = submarine_medium_battery_2
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 3.0
+			build_cost_ic = 495.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.07
+			max_strength = 0.1
+			reliability = -0.06
+		}
+		add_average_stats = {
+			hg_armor_piercing = 29.0
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_medium_battery_4 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_medium_battery_4
+		parent = submarine_medium_battery_3
+		gui_category = submarine_heavy_battery
+		add_equipment_type = capital_ship
+
+		add_stats = {
+			hg_attack = 3.3000000000000003
+			build_cost_ic = 540.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.08
+			max_strength = 0.1
+			reliability = -0.045
+		}
+		add_average_stats = {
+			hg_armor_piercing = 34.0
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_heavy_guns }
+	}
+	submarine_light_medium_battery_1 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_medium_battery_1
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 1.8
+			build_cost_ic = 270.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.03
+			reliability = -0.07
+		}
+		add_average_stats = {
+			lg_armor_piercing = 5.5
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_light_medium_battery_2 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_medium_battery_2
+		parent = submarine_light_medium_battery_1
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 2.25
+			build_cost_ic = 315.0
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.04
+			reliability = -0.06
+		}
+		add_average_stats = {
+			lg_armor_piercing = 7.0
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_light_medium_battery_3 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_medium_battery_3
+		parent = submarine_light_medium_battery_2
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 2.7
+			build_cost_ic = 337.5
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.05
+			reliability = -0.05
+		}
+		add_average_stats = {
+			lg_armor_piercing = 8.0
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_light_guns }
+	}
+	submarine_light_medium_battery_4 = {
+		category = submarine_medium_battery
+		sfx = sfx_ui_sd_module_turret
+		gfx = submarine_light_medium_battery_4
+		parent = submarine_light_medium_battery_3
+		gui_category = submarine_light_battery
+
+		add_stats = {
+			lg_attack = 3.375
+			build_cost_ic = 382.5
+			surface_visibility = 3.0
+			sub_visibility = 3.0
+		}
+		multiply_stats = {
+			naval_speed = -0.06
+			reliability = -0.04
+		}
+		add_average_stats = {
+			lg_armor_piercing = 9.0
+		}
+		dismantle_cost_ic = 100
+		critical_parts = { damaged_light_guns }
+	}

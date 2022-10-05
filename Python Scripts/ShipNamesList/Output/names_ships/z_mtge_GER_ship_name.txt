@@ -1,0 +1,18 @@
+GER_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+	type = ship
+	ship_types = { submarine_heavy ship_hull_battle_carrier battle_cruiser ship_hull_heavy battleship }
+	prefix = ""
+}
+GER_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+	type = ship
+	ship_types = { submarine_heavy ship_hull_battle_carrier battle_cruiser ship_hull_heavy battleship }
+	prefix = ""
+}
+GER_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+	type = ship
+	ship_types = { submarine ship_hullsubmarine_cruiser ship_hull_submarine_carrier ship_hull_submarine }
+	prefix = ""
+}

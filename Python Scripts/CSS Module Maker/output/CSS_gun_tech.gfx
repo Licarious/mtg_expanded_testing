@@ -1,0 +1,82 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_css_submarine_light_battery_1_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_battery_icn_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_light_battery_2_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_battery_icn_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_light_battery_3_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_battery_icn_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_light_battery_4_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_battery_icn_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_dp_light_battery_1_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_dp_light_battery_1_icn.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_dp_light_battery_2_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_dp_light_battery_2_icn.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_dp_light_battery_3_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_dp_light_battery_3_icn.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_dp_light_battery_4_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_dp_light_battery_4_icn.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_heavy_battery_1_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_heavy_battery_2_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_heavy_battery_3_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_heavy_battery_4_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_heavy_battery_icn_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_medium_battery_1_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_medium_battery_icn_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_medium_battery_2_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_medium_battery_icn_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_medium_battery_3_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_medium_battery_icn_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_medium_battery_4_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_medium_battery_icn_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_light_medium_battery_1_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_medium_battery_icn_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_light_medium_battery_2_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_medium_battery_icn_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_light_medium_battery_3_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_medium_battery_icn_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_css_submarine_light_medium_battery_4_medium"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/submarine_light_medium_battery_icn_4.dds"
+	}
+}

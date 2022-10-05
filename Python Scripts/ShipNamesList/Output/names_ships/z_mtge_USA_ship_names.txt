@@ -1,0 +1,96 @@
+USA_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+	type = ship
+	ship_types = { ship_hull_cruiser_carrier ship_hull_submarine_cruiser ship_hull_cruiser light_cruiser }
+	prefix = ""
+}
+USA_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+	type = ship
+	ship_types = { ship_hull_cruiser_carrier ship_hull_submarine_cruiser heavy_cruiser ship_hull_cruiser }
+	prefix = ""
+}
+USA_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+	type = ship
+	ship_types = { ship_hull_cruiser_carrier ship_hull_submarine_cruiser ship_hull_cruiser light_cruiser }
+	prefix = ""
+}
+USA_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+	type = ship
+	ship_types = { ship_hull_cruiser ship_hull_light ship_hull_cruiser_carrier destroyer ship_hull_submarine_cruiser light_cruiser }
+	prefix = ""
+}
+USA_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+	type = ship
+	ship_types = { ship_hull_heavy submarine_heavy ship_hull_battle_carrier battleship }
+	prefix = ""
+}
+USA_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+	type = ship
+	ship_types = { ship_hull_heavy submarine_heavy ship_hull_battle_carrier battle_cruiser }
+	prefix = ""
+}
+USA_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+	type = ship
+	ship_types = { carrier ship_hull_battle_carrier ship_hull_cruiser_carrier ship_hull_submarine_carrier ship_hull_carrier }
+	prefix = ""
+}
+USA_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+	type = ship
+	ship_types = { carrier ship_hull_battle_carrier ship_hull_cruiser_carrier ship_hull_submarine_carrier ship_hull_carrier }
+	prefix = ""
+}
+USA_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+	type = ship
+	ship_types = { submarine ship_hullsubmarine_cruiser ship_hull_submarine_carrier ship_hull_submarine }
+	prefix = ""
+}
+USA_STATES = {
+	name = NAME_THEME_STATES
+	type = ship
+	ship_types = { submarine_heavy ship_hull_battle_carrier ship_hullsubmarine_cruiser ship_hull_heavy ship_hull_cruiser_carrier ship_hull_submarine_carrier ship_hull_carrier ship_hull_submarine }
+	prefix = ""
+}
+USA_CITIES = {
+	name = NAME_THEME_CITIES
+	type = ship
+	ship_types = { ship_hull_cruiser ship_hullsubmarine_cruiser ship_hull_cruiser_carrier ship_hull_submarine_carrier ship_hull_submarine_cruiser ship_hull_submarine }
+	prefix = ""
+}
+CSA_CA_CONFEDERATE = {
+	name = NAME_THEME_CONFEDERATE_CA
+	type = ship
+	ship_types = { ship_hull_cruiser_carrier ship_hull_submarine_cruiser heavy_cruiser ship_hull_cruiser }
+	prefix = ""
+}
+USA_BB_CONFEDERATE = {
+	name = NAME_THEME_CONFEDERATE_BB
+	type = ship
+	ship_types = { ship_hull_heavy submarine_heavy ship_hull_battle_carrier battleship }
+	prefix = ""
+}
+USA_BC_CONFEDERATE = {
+	name = NAME_THEME_CONFEDERATE_BC
+	type = ship
+	ship_types = { ship_hull_heavy submarine_heavy ship_hull_battle_carrier battle_cruiser }
+	prefix = ""
+}
+USA_CV_CONFEDERATE = {
+	name = NAME_THEME_CONFEDERATE_CARRIERS
+	type = ship
+	ship_types = { carrier ship_hull_battle_carrier ship_hull_cruiser_carrier ship_hull_submarine_carrier ship_hull_carrier }
+	prefix = ""
+}
+CSA_SS_CONFEDERATE = {
+	name = NAME_THEME_CONFEDERATE_SUBMARINES
+	type = ship
+	ship_types = { submarine ship_hullsubmarine_cruiser ship_hull_submarine_carrier ship_hull_submarine }
+	prefix = ""
+}
